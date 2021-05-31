@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Anderson</title>
+    <link>https://andersonrayner.github.io/</link>
+      <atom:link href="https://andersonrayner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matt Anderson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andersonrayner.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Matt Anderson</title>
+      <link>https://andersonrayner.github.io/</link>
+    </image>
+    
+    <item>
+      <title>[PrePrint] - Distributed Aperture RADAR Tomographic Sensors (DARTS) to Map Surface Topography and Vegetation Structure</title>
+      <link>https://andersonrayner.github.io/publication/2021_darts1/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2021_darts1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[PrePrint] - Experiments with Small UAS to Support SAR Tomographic Mission Formulation</title>
+      <link>https://andersonrayner.github.io/publication/2021_darts2/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2021_darts2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AFA</title>
+      <link>https://andersonrayner.github.io/project/afa/</link>
+      <pubDate>Sun, 09 May 2021 18:56:00 -0700</pubDate>
+      <guid>https://andersonrayner.github.io/project/afa/</guid>
+      <description>&lt;p&gt;The Autonomous Flying Ambulance is designed as a next-generation flight test platform for autonomy research.
+AFA v4 is currently being manufactured and is schedualed to enter service late 2021.
+Below are some of the images of the CAD renderings.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://andersonrayner.github.io/media/AFA/afa1.png&#34; alt=&#34;AFA&#34;&gt;
+&lt;img src=&#34;https://andersonrayner.github.io/media/AFA/afa2.png&#34; alt=&#34;AFA&#34;&gt;
+&lt;img src=&#34;https://andersonrayner.github.io/media/AFA/afa3.jpg&#34; alt=&#34;AFA&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DARTS</title>
+      <link>https://andersonrayner.github.io/project/darts/</link>
+      <pubDate>Sun, 09 May 2021 18:56:00 -0700</pubDate>
+      <guid>https://andersonrayner.github.io/project/darts/</guid>
+      <description>&lt;p&gt;Enhance global mapping of surface topography and 3D vegetation using multi-static SAR observations.
+Below are some images taken during some of our flight tests at North Field, Caltech.
+&lt;img src=&#34;https://andersonrayner.github.io/media/DARTS/DARTS1.jpg&#34; alt=&#34;DARTS Flying&#34;&gt;
+&lt;img src=&#34;https://andersonrayner.github.io/media/DARTS/DARTS2.jpg&#34; alt=&#34;DARTS Flying&#34;&gt;
+&lt;img src=&#34;https://andersonrayner.github.io/media/DARTS/DARTS3.jpg&#34; alt=&#34;DARTS Flying&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>F9P GPS Logger Board</title>
+      <link>https://andersonrayner.github.io/project/gpslogger/</link>
+      <pubDate>Sun, 09 May 2021 18:56:00 -0700</pubDate>
+      <guid>https://andersonrayner.github.io/project/gpslogger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kvis</title>
+      <link>https://andersonrayner.github.io/project/kvis/</link>
+      <pubDate>Sun, 09 May 2021 18:56:00 -0700</pubDate>
+      <guid>https://andersonrayner.github.io/project/kvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SubT</title>
+      <link>https://andersonrayner.github.io/project/subt/</link>
+      <pubDate>Sun, 09 May 2021 18:56:00 -0700</pubDate>
+      <guid>https://andersonrayner.github.io/project/subt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swarmAI</title>
+      <link>https://andersonrayner.github.io/project/swarmai/</link>
+      <pubDate>Sun, 09 May 2021 18:56:00 -0700</pubDate>
+      <guid>https://andersonrayner.github.io/project/swarmai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teensy 4.0 Breakout Board</title>
+      <link>https://andersonrayner.github.io/project/teensyboard/</link>
+      <pubDate>Sun, 09 May 2021 18:56:00 -0700</pubDate>
+      <guid>https://andersonrayner.github.io/project/teensyboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volcano Drone</title>
+      <link>https://andersonrayner.github.io/project/volcanodrone/</link>
+      <pubDate>Sun, 09 May 2021 18:56:00 -0700</pubDate>
+      <guid>https://andersonrayner.github.io/project/volcanodrone/</guid>
+      <description>&lt;p&gt;Volcano Drone&amp;rsquo;s mission is to autonomously sample volcanic fumaroles and return pristine gas samples.  Volcanoes represent one of the harshest enviroments on the planets - steep terrain, high temperatures and noxious gases - making them the perfect candidate for automous exploration.  Below are some images taken from a field trip to the fumaroles of Mammoth Valley.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://andersonrayner.github.io/media/Volcano/volcano0.jpg&#34; alt=&#34;Volcano&#34;&gt;
+&lt;img src=&#34;https://andersonrayner.github.io/media/Volcano/volcano1.jpg&#34; alt=&#34;Volcano&#34;&gt;
+&lt;img src=&#34;https://andersonrayner.github.io/media/Volcano/volcano2.jpg&#34; alt=&#34;Volcano&#34;&gt;
+&lt;img src=&#34;https://andersonrayner.github.io/media/Volcano/volcano3.jpg&#34; alt=&#34;Volcano&#34;&gt;
+&lt;img src=&#34;https://andersonrayner.github.io/media/Volcano/volcano4.jpg&#34; alt=&#34;Volcano&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[PrePrint] - Neural Tree Expansion for Multi-Robot Planning in Non-Cooperative Environments</title>
+      <link>https://andersonrayner.github.io/publication/2021_swarm/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2021_swarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ulg Reader (MATLAB)</title>
+      <link>https://andersonrayner.github.io/project/ulgreader/</link>
+      <pubDate>Fri, 09 Apr 2021 18:56:00 -0700</pubDate>
+      <guid>https://andersonrayner.github.io/project/ulgreader/</guid>
+      <description>&lt;p&gt;ulgReader is an open-source code for natively importing PX4 ulg files into MATLAB.  It offers significantly reduced import times and reduced complexity over existing open source methods the utilise a python conversions to csv files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NeBula: Quest for Robotic Autonomy in Challenging Environments; TEAM CoSTAR at the DARPA Subterranean Challenge</title>
+      <link>https://andersonrayner.github.io/publication/2021_subt/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2021_subt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of the Next-Generation Autonomous Flying Ambulance</title>
+      <link>https://andersonrayner.github.io/publication/2021_afa/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2021_afa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and Deployment of an Autonomous UAV-Borne Gas and Particulate Sample Capture System for Fumarole Sampling</title>
+      <link>https://andersonrayner.github.io/publication/2021_volcano/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2021_volcano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Autonomous Stabilization of a Ballistically-Launched Multirotor</title>
+      <link>https://andersonrayner.github.io/publication/2020_squid/</link>
+      <pubDate>Sun, 31 May 2020 21:49:38 -0700</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2020_squid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Experimentation Towards Enhanced UAV Capabilities – The Multi-rotor Air-Crane</title>
+      <link>https://andersonrayner.github.io/publication/2017_aircrane/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2017_aircrane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Small Electric Brushless Motors and Propellers</title>
+      <link>https://andersonrayner.github.io/publication/2017_propellers/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2017_propellers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Propellers in FINE/Open using OpenLabs</title>
+      <link>https://andersonrayner.github.io/publication/2014_fineopen/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2014_fineopen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propeller Location Optimisation for Annular Wing Design</title>
+      <link>https://andersonrayner.github.io/publication/2013_annularwingdesign/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/publication/2013_annularwingdesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://andersonrayner.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andersonrayner.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
