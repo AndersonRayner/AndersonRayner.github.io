@@ -60,7 +60,7 @@ superuser: true
 highlight_name: false
 ---
 
-Field roboticist, aero engineer, and (occasionally) a programmer who is always looking for the next challenging adventure.  Whether the mission is deep underground or high in the air, I can duct tape, hot glue, and hack my way to success.
+Field roboticist, aero engineer, and (occasionally) a programmer who is always looking for the next challenging adventure.  Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
 
 While you're here, check out my projects, publications, and feel free to contact me below.
 
