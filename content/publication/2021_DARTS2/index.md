@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "[PrePrint] - Experiments with Small UAS to Support SAR Tomographic Mission Formulation"
+title: "[Experiments with Small UAS to Support SAR Tomographic Mission Formulation"
 authors: [ 'Brian Hawkins' , 'Matthew Anderson' , 'Sam Prager' , 'Soon-Jo Chung' , 'Marco Lavalle' ]
 date: 2021-07-12
 doi: ""
