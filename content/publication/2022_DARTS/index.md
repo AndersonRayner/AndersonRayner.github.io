@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE's International Geoscience and Remote Sensing Symposium"
-publication_short: "IGARSS 2022
+publication_short: "IGARSS 2022"
 
 abstract: ""
 
