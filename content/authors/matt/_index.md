@@ -6,7 +6,7 @@ title: Matt Anderson
 superuser: true
 
 # Role/position/tagline
-role: Post-Doc (Aeronautics)
+role: Staff Scientist (Aeronautics)
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -3,13 +3,21 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
+  - title: Staff Scientist
+    company: Caltech
+    company_url: ""
+    company_logo: null
+    location: California
+    date_start: 2021-10-01
+    date_end: ""
+    description:
   - title: Postdoctoral Researcher
     company: Caltech
     company_url: ""
     company_logo: null
     location: California
     date_start: 2019-10-01
-    date_end: ""
+    date_end: "2021-09-30"
     description:
     
   - title: Postdoctoral Researcher
