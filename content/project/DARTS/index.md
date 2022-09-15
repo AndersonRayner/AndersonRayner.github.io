@@ -42,7 +42,7 @@ slides: ""
 
 Enhance global mapping of surface topography and 3D vegetation using multi-static SAR observations.
 Below are some images taken during some of our flight tests at North Field, Caltech.
-![DARTS Flying](/content/project/DARTS1.jpg)
-![DARTS Flying](/content/project/DARTS2.jpg)
-![DARTS Flying](/content/project/DARTS3.jpg)
+![DARTS Flying](/project/darts/images/DARTS1.jpg)
+![DARTS Flying](/project/darts/images/DARTS2.jpg)
+![DARTS Flying](/project/darts/images/DARTS3.jpg)
 
