@@ -51,7 +51,7 @@ social:
   link: https://www.linkedin.com/in/matt-anderson-uav/
 - icon: cv
   icon_pack: ai
-  link: media/ANDERSON_Matt.pdf
+  link: uploads/ANDERSON_Matt.pdf
    
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -64,4 +64,4 @@ Field roboticist, aero engineer, and (occasionally) a programmer who is always l
 
 While you're here, check out my projects, publications, and feel free to contact me below.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ANDERSON_Matt.pdf" "newtab" >}}cv{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ANDERSON_Matt.pdf" "newtab" >}}cv{{< /staticref >}}.
