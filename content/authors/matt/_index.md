@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:matt.jl.anderson@gmail.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=yG6xm2gAAAAJ&hl=en
