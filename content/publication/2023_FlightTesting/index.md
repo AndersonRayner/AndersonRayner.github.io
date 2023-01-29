@@ -7,7 +7,7 @@ date: 2023-01-23
 #doi: "10.2514/6.2021-1409"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-01-23
+publishDate: 2023-01-24
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
