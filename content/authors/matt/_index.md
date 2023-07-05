@@ -51,8 +51,8 @@ social:
   link: https://www.linkedin.com/in/matt-anderson-uav/
 - icon: cv
   icon_pack: ai
-  link: uploads/ANDERSON_Matt.pdf
-   
+  link: https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "anderson_rayner@hotmail.com"
