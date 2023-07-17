@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://andersonrayner.github.io/project/hardwareIndex/"
+url_code: "https://andersonrayner.github.io/project/hardwareindex/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -48,6 +48,6 @@ PCBs
 - [Pololu Regulator Breakouts](https://github.com/AndersonRayner/pcb_pololu_breakouts)
 - [SimpleRTK2Blite Logger Board](https://github.com/AndersonRayner/simpleRTK2Blite_logger)
 - [UAV PCB Breakout Boards](https://github.com/AndersonRayner/pcb_uav_breakouts)
-- [Aurelia X6 Custom Distribution Boards)[https://github.com/AndersonRayner/pcb_aurelia]
-- [ROS1 Hardware Sync Node (RP2040)[https://github.com/AndersonRayner/ros_sync_node_hw] 
-- [Teensy 4.0 Breakout Board)(https://github.com/AndersonRayner/teensy_4.0_breakout)
+- [Aurelia X6 Custom Distribution Boards](https://github.com/AndersonRayner/pcb_aurelia)
+- [ROS1 Hardware Sync Node (RP2040)](https://github.com/AndersonRayner/ros_sync_node_hw)
+- [Teensy 4.0 Breakout Board](https://github.com/AndersonRayner/teensy_4.0_breakout)
