@@ -18,12 +18,12 @@ jobs:
         with:
           generate-html: false
 
-    #  - name: Clean Previous Releases
-    #     uses: dev-drprasad/delete-older-releases@v0.2.1
-    #     with:
-    #       keep_latest: 0
-    #     env:
-    #       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     - name: Clean Previous Releases
+        uses: dev-drprasad/delete-older-releases@v0.2.1
+        with:
+          keep_latest: 0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create Release
         id: create_release
