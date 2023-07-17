@@ -52,8 +52,8 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf
-
-
+  
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "anderson_rayner@hotmail.com"
 superuser: true

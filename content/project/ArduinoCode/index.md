@@ -37,7 +37,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "example"
 ---
 
 A collection of Arduino drivers and software for random projects I've built over the years.
