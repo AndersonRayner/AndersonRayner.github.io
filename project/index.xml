@@ -6,9 +6,9 @@ Quality varies between them, however they should all make for a good starting po
 &lt;li>&lt;a href="https://github.com/AndersonRayner/pcb_pololu_breakouts" target="_blank" rel="noopener">Pololu Regulator Breakouts&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/AndersonRayner/simpleRTK2Blite_logger" target="_blank" rel="noopener">SimpleRTK2Blite Logger Board&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/AndersonRayner/pcb_uav_breakouts" target="_blank" rel="noopener">UAV PCB Breakout Boards&lt;/a>&lt;/li>
-&lt;li>[Aurelia X6 Custom Distribution Boards)[https://github.com/AndersonRayner/pcb_aurelia]&lt;/li>
-&lt;li>[ROS1 Hardware Sync Node (RP2040)[https://github.com/AndersonRayner/ros_sync_node_hw]&lt;/li>
-&lt;li>[Teensy 4.0 Breakout Board)(https://github.com/AndersonRayner/teensy_4.0_breakout)&lt;/li>
+&lt;li>&lt;a href="https://github.com/AndersonRayner/pcb_aurelia" target="_blank" rel="noopener">Aurelia X6 Custom Distribution Boards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/AndersonRayner/ros_sync_node_hw" target="_blank" rel="noopener">ROS1 Hardware Sync Node (RP2040)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/AndersonRayner/teensy_4.0_breakout" target="_blank" rel="noopener">Teensy 4.0 Breakout Board&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>AFA</title><link>https://andersonrayner.github.io/project/afa/</link><pubDate>Sun, 09 May 2021 18:56:00 -0700</pubDate><guid>https://andersonrayner.github.io/project/afa/</guid><description>&lt;p>The Autonomous Flying Ambulance is designed as a next-generation flight test platform for autonomy research.
 AFA v4 is currently being manufactured and is schedualed to enter service late 2021.
 Below are some of the images of the CAD renderings.&lt;/p>
