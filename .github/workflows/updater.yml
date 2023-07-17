@@ -1,4 +1,4 @@
-name: Updater (WIP)
+name: Wowchemy Update Schedualer
 
 on:
   schedule:
