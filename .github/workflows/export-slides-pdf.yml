@@ -1,11 +1,12 @@
 name: Export Slide Decks
+
 on:
   push:
     branches:
       - main
 
 jobs:
-  export-slides:
+  slides:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
