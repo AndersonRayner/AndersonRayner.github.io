@@ -18,7 +18,7 @@ jobs:
         with:
           generate-html: false
 
-     - name: Clean Previous Releases
+      - name: Clean Previous Releases
         uses: dev-drprasad/delete-older-releases@v0.2.1
         with:
           keep_latest: 0
