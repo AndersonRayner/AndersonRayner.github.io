@@ -12,7 +12,9 @@
 &lt;img src="https://andersonrayner.github.io/media/rcFun/albatross.jpg" alt="rcFun">
 &lt;img src="https://andersonrayner.github.io/media/rcFun/quad.jpg" alt="rcFun">&lt;/p></description></item><item><title>Matt Anderson</title><link>https://andersonrayner.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://andersonrayner.github.io/slides/example/</guid><description>&lt;h1 id="matt-anderson">Matt Anderson&lt;/h1>
 &lt;p>&lt;a href="https://andersonrayner.github.io/" target="_blank" rel="noopener">Website&lt;/a> | &lt;a href="https://scholar.google.com/citations?user=yG6xm2gAAAAJ" target="_blank" rel="noopener">Google Scholar&lt;/a> | &lt;a href="https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" target="_blank" rel="noopener">CV&lt;/a> | &lt;a href="https://github.com/AndersonRayner/AndersonRayner.github.io/releases/download/main/ANDERSON_Matt_Slides.pdf" target="_blank" rel="noopener">Download Slides&lt;/a>&lt;/p>
-&lt;p>&lt;img src="https://andersonrayner.github.io/slides/images/river/colorado_river1.jpg" alt="bg opacity ">&lt;/p>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="https://andersonrayner.github.io/slides/images/river/colorado_river1.jpg"
+>
 &lt;hr>
 &lt;h1 id="linc">LINC&lt;/h1>
 &lt;ul>
