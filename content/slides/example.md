@@ -1,5 +1,6 @@
 ---
 title: Matt Anderson
+marp: true
 summary: Slide Deck for Matt Anderson
 authors: []
 tags: ['Highlights']
@@ -20,16 +21,18 @@ slides:
 
 # Matt Anderson
 
-[Website](https://andersonrayner.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=yG6xm2gAAAAJ) | [CV](https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf) | [Download Slides](https://github.com/AndersonRayner/AndersonRayner.github.io/releases/download/main/ANDERSON_Matt_Slides.pdf)
+[Website](https://andersonrayner.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=yG6xm2gAAAAJ) | [CV](https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf) 
+<!--| [Download Slides](https://github.com/AndersonRayner/AndersonRayner.github.io/releases/download/main/ANDERSON_Matt_Slides.pdf) -->
 
-{{< slide background-image="https://andersonrayner.github.io/slides/images/river/colorado_river1.jpg" >}}
+![bg opacity](https://andersonrayner.github.io/slides/images/river/colorado_river1.jpg)
+
 
 ---
 
 # LINC
-- Learing intropsection and control
-- slkdjfklj
-- sdfs
+1. Learing intropsection and control
+1. slkdjfklj
+1. sdfs
 
 <!-- ![width:100px height:100px](./image.jpg) ![width:100px height:100px](./image.jpg)
 ![width:100px height:100px](./image.jpg) ![width:100px height:100px](./image.jpg) -->
@@ -39,6 +42,13 @@ slides:
 ![bg right:60% vertical ](https://andersonrayner.github.io/slides/images/river/colorado_river1.jpg)
 ![Volcano](https://andersonrayner.github.io/slides/images/river/colorado_river1.jpg)
 <!-- ![](./image.jpg) -->
+
+
+---
+
+# DARTS
+## DARTS 2
+### DARTS 3
 
 ---
 
