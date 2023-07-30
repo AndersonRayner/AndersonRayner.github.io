@@ -22,7 +22,7 @@ slides:
 
 [Website](https://andersonrayner.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=yG6xm2gAAAAJ) | [CV](https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf) | [Download Slides](https://github.com/AndersonRayner/AndersonRayner.github.io/releases/download/main/ANDERSON_Matt_Slides.pdf)
 
-![bg opacity ](/media/river/colorado_river1.jpg)
+![bg opacity ](images/river/colorado_river1.jpg)
 
 ---
 
@@ -36,8 +36,8 @@ slides:
 
 <!-- ![bg](./image.jpg) ![bg](./image.jpg) -->
 <!-- ![bg](./image.jpg) -->
-![bg right:60% vertical ](./image.jpg)
-![Volcano](/media/Volcano/volcano0.jpg)
+![bg right:60% vertical ](images/image.jpg)
+![Volcano](images/volcano/volcano0.jpg)
 <!-- ![](./image.jpg) -->
 
 ---

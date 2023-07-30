@@ -65,3 +65,7 @@ Field roboticist, aero engineer, and (occasionally) a programmer who is always l
 While you're here, check out my projects, publications, and feel free to contact me below.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" "newtab" >}}cv{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" "newtab" >}}cv{{< /staticref >}} or view my {{< staticref "https://andersonrayner.github.io/slides/example/" "newtab" >}}slide deck{{< /staticref >}}. -->
+
+
+
