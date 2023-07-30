@@ -1,23 +1,56 @@
 ---
-title: Example Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: Matt Anderson
+summary: Slide Deck for Matt Anderson
 authors: []
-tags: ['Tutorials']
+tags: ['Highlights']
 categories: []
 date: '2019-02-05'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
+theme: night
+size: 16:9
   # Choose a code highlighting style (see Hugo docs on Chroma)
   #   Light style: github-light. Dark style: dracula (default).
+marp: true
   highlight_style: dracula
+paginate: false
+
+# https://gist.github.com/yhatt/a7d33a306a87ff634df7bb96aab058b5
 ---
 
-# Create slides in Markdown with Wowchemy
+# Matt Anderson
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+[Website](https://andersonrayner.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=yG6xm2gAAAAJ) | [CV](https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf)
+
+![bg opacity ](/media/river/colorado_river1.jpg)
 
 ---
+
+# LINC
+- Learing intropsection and control
+- slkdjfklj
+- sdfs
+
+<!-- ![width:100px height:100px](./image.jpg) ![width:100px height:100px](./image.jpg)
+![width:100px height:100px](./image.jpg) ![width:100px height:100px](./image.jpg) -->
+
+<!-- ![bg](./image.jpg) ![bg](./image.jpg) -->
+<!-- ![bg](./image.jpg) -->
+![bg right:60% vertical ](./image.jpg)
+![Volcano](/media/Volcano/volcano0.jpg)
+<!-- ![](./image.jpg) -->
+
+---
+
+## <!--fit--> Auto-fitting header (only for Marp Core) sjkldfjslkfdjkl sjfkl sjkf
+![bg left](./image.jpg)
+
+![width:100px height:100px](./image.jpg)
+
+
+---
+
+![bg right](./image.jpg)
 
 ## Features
 
@@ -25,6 +58,12 @@ slides:
 - 3-in-1: Create, Present, and Publish your slides
 - Supports speaker notes
 - Mobile friendly slides
+
+* Efficiently write slides in Markdown
+  * 3-in-1: Create, Present, and Publish your slides
+* Supports speaker notes
+  * Mobile friendly slides
+
 
 ---
 
@@ -43,6 +82,7 @@ slides:
 ---
 
 ## Code Highlighting
+![bg opacity](https://yhatt-marp-cli-example.netlify.com/assets/gradient.jpg)
 
 Inline code: `variable`
 
@@ -56,7 +96,7 @@ if porridge == "blueberry":
 
 ---
 
-## Math
+# Math
 
 In-line math: $x + y = z$
 
@@ -66,9 +106,8 @@ $$
 f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$
 
-|||
 
-## Math down a slide
+### Math down a slide
 In-line math: $x + y = z$
 
 Block math:

@@ -42,7 +42,7 @@ social:
   link: mailto:matt.jl.anderson@gmail.com
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=yG6xm2gAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=yG6xm2gAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/andersonrayner
