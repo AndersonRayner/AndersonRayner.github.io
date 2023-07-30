@@ -61,15 +61,47 @@ Some of the code is written to be used with Platform I/O, but it should be easy 
 &lt;img src="https://andersonrayner.github.io/media/rcFun/pylon.jpg" alt="rcFun">
 &lt;img src="https://andersonrayner.github.io/media/rcFun/miniSkywalker.jpg" alt="rcFun">
 &lt;img src="https://andersonrayner.github.io/media/rcFun/albatross.jpg" alt="rcFun">
-&lt;img src="https://andersonrayner.github.io/media/rcFun/quad.jpg" alt="rcFun">&lt;/p></description></item><item><title>Example Slides</title><link>https://andersonrayner.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://andersonrayner.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
-&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;img src="https://andersonrayner.github.io/media/rcFun/quad.jpg" alt="rcFun">&lt;/p></description></item><item><title>Matt Anderson</title><link>https://andersonrayner.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://andersonrayner.github.io/slides/example/</guid><description>&lt;h1 id="matt-anderson">Matt Anderson&lt;/h1>
+&lt;p>&lt;a href="https://andersonrayner.github.io/" target="_blank" rel="noopener">Website&lt;/a> | &lt;a href="https://scholar.google.com/citations?user=yG6xm2gAAAAJ" target="_blank" rel="noopener">Google Scholar&lt;/a> | &lt;a href="https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" target="_blank" rel="noopener">CV&lt;/a> | &lt;a href="https://github.com/AndersonRayner/AndersonRayner.github.io/releases/download/main/ANDERSON_Matt_Slides.pdf" target="_blank" rel="noopener">Download Slides&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://andersonrayner.github.io/media/river/colorado_river1.jpg" alt="bg opacity ">&lt;/p>
 &lt;hr>
+&lt;h1 id="linc">LINC&lt;/h1>
+&lt;ul>
+&lt;li>Learing intropsection and control&lt;/li>
+&lt;li>slkdjfklj&lt;/li>
+&lt;li>sdfs&lt;/li>
+&lt;/ul>
+&lt;!-- ![width:100px height:100px](./image.jpg) ![width:100px height:100px](./image.jpg)
+![width:100px height:100px](./image.jpg) ![width:100px height:100px](./image.jpg) -->
+&lt;!-- ![bg](./image.jpg) ![bg](./image.jpg) -->
+&lt;!-- ![bg](./image.jpg) -->
+&lt;p>&lt;img src="./image.jpg" alt="bg right:60% vertical ">
+&lt;img src="https://andersonrayner.github.io/media/Volcano/volcano0.jpg" alt="Volcano">&lt;/p>
+&lt;!-- ![](./image.jpg) -->
+&lt;hr>
+&lt;h2 id="--fit---auto-fitting-header-only-for-marp-core-sjkldfjslkfdjkl-sjfkl-sjkf">&lt;!--fit--> Auto-fitting header (only for Marp Core) sjkldfjslkfdjkl sjfkl sjkf&lt;/h2>
+&lt;p>&lt;img src="./image.jpg" alt="bg left">&lt;/p>
+&lt;p>&lt;img src="./image.jpg" alt="width:100px height:100px">&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="./image.jpg" alt="bg right">&lt;/p>
 &lt;h2 id="features">Features&lt;/h2>
 &lt;ul>
 &lt;li>Efficiently write slides in Markdown&lt;/li>
 &lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
 &lt;li>Supports speaker notes&lt;/li>
 &lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown
+&lt;ul>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Supports speaker notes
+&lt;ul>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2 id="controls">Controls&lt;/h2>
@@ -86,6 +118,7 @@ Some of the code is written to be used with Platform I/O, but it should be easy 
 &lt;/ul>
 &lt;hr>
 &lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>&lt;img src="https://yhatt-marp-cli-example.netlify.com/assets/gradient.jpg" alt="bg opacity">&lt;/p>
 &lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
 &lt;p>Code block:&lt;/p>
 &lt;pre>&lt;code class="language-python">porridge = &amp;quot;blueberry&amp;quot;
@@ -93,14 +126,13 @@ if porridge == &amp;quot;blueberry&amp;quot;:
 print(&amp;quot;Eating...&amp;quot;)
 &lt;/code>&lt;/pre>
 &lt;hr>
-&lt;h2 id="math">Math&lt;/h2>
+&lt;h1 id="math">Math&lt;/h1>
 &lt;p>In-line math: $x + y = z$&lt;/p>
 &lt;p>Block math:&lt;/p>
 &lt;p>$$
 f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$&lt;/p>
-&lt;p>|||&lt;/p>
-&lt;h2 id="math-down-a-slide">Math down a slide&lt;/h2>
+&lt;h3 id="math-down-a-slide">Math down a slide&lt;/h3>
 &lt;p>In-line math: $x + y = z$&lt;/p>
 &lt;p>Block math:&lt;/p>
 &lt;p>$$
