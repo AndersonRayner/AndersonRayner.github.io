@@ -7,20 +7,20 @@ categories: []
 date: '2019-02-05'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-theme: night
-size: 16:9
+  theme: night
+  size: 16:9
+
   # Choose a code highlighting style (see Hugo docs on Chroma)
   #   Light style: github-light. Dark style: dracula (default).
-marp: true
   highlight_style: dracula
-paginate: false
+  paginate: false
 
 # https://gist.github.com/yhatt/a7d33a306a87ff634df7bb96aab058b5
 ---
 
 # Matt Anderson
 
-[Website](https://andersonrayner.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=yG6xm2gAAAAJ) | [CV](https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf)
+[Website](https://andersonrayner.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=yG6xm2gAAAAJ) | [CV](https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf) | [Download Slides](https://github.com/AndersonRayner/AndersonRayner.github.io/releases/download/main/ANDERSON_Matt_Slides.pdf)
 
 ![bg opacity ](/media/river/colorado_river1.jpg)
 
