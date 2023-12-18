@@ -482,7 +482,8 @@ See: https://github.com/francoischalifour/medium-zoom`);
     }), $(window).resize(function() {
       clearTimeout(x), x = setTimeout(S, 200);
     });
-  })(), (() => {
+  })();
+  (() => {
     var o = { authors: "Authors", event: "Events", post: "Posts", project: "Projects", publication: "Publications", slides: "Slides" }, i = { no_results: "No results found", placeholder: "Search...", results: "results found" }, t = { indexURI: "/index.json", minLength: 1, threshold: 0.3 }, n = { shouldSort: true, includeMatches: true, tokenize: true, threshold: t.threshold, location: 0, distance: 100, maxPatternLength: 32, minMatchCharLength: t.minLength, keys: [{ name: "title", weight: 0.99 }, { name: "summary", weight: 0.6 }, { name: "authors", weight: 0.5 }, { name: "content", weight: 0.2 }, { name: "tags", weight: 0.5 }, { name: "categories", weight: 0.5 }] }, e = 60;
     function a(e2) {
       return decodeURIComponent((location.search.split(e2 + "=")[1] || "").split("&")[0]).replace(/\+/g, " ");
@@ -538,3 +539,4 @@ See: https://github.com/francoischalifour/medium-zoom`);
 /*! Wowchemy v5.1.0 | https://wowchemy.com/ */
 /*! Copyright 2016-present George Cushen (https://georgecushen.com/) */
 /*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md */
+/*! medium-zoom 1.0.6 | MIT License | https://github.com/francoischalifour/medium-zoom */
