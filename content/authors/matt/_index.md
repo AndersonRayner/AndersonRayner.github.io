@@ -6,7 +6,7 @@ title: Matt Anderson
 superuser: true
 
 # Role/position/tagline
-role: Staff Scientist (Aeronautics)
+role: Staff Scientist (CMS)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.caltech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Matt Anderson is a field roboticist, aero engineer, and (occasionally) a programmer who is always looking for the next challenging adventure.
+bio: Matt Anderson is a field roboticist, aero engineer, and low-level programmer who is always looking for the next challenging adventure.
 
 # Interests to show in About widget
 interests:
@@ -60,7 +60,7 @@ superuser: true
 highlight_name: false
 ---
 
-Field roboticist, aero engineer, and (occasionally) a programmer who is always looking for the next challenging adventure.  Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
+Field roboticist, aero engineer, and low-level programmer who is always looking for the next challenging adventure.  Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
 
 While you're here, check out my projects, publications, and feel free to contact me below.
 
