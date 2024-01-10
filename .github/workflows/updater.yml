@@ -3,15 +3,21 @@ name: Wowchemy Update Scheduler
 on:
   schedule:
     - cron: '30 23 1 * *'
+  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
   pull_request:
 
+# Provide permission to clone the repo and deploy it to GitHub Pages
+permissions:
+  contents: write
+
 jobs:
   update:
+    if: github.repository_owner == 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
-      - name: Wowchemy Update
-        uses: wowchemy/gh-action-updater@v2
+      - uses: HugoBlox/gh-action-updater@v1
         with:
-          feed-url: https://wowchemy.com/blog/index.xml
+          feed-url: https://hugoblox.com/rss.xml
           readme-section: news
+          branch: main
