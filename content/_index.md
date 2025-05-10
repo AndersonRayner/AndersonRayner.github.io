@@ -16,8 +16,11 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: CV (Academic)
+        url: https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf
+      button:
+        text: CV (Industry)
+        url: https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf
     design:
       css_class: dark
       background:

@@ -40,8 +40,8 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=yG6xm2gAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
-  - icon: ai/cv
+    url: https://orcid.org/0000-0001-8884-3448
+  - icon: academicons/cv
     link: https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf
 
 interests:
