@@ -73,28 +73,55 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+
+
+  - position: Staff Scientist / PostDoc / Lecturer
+    company: Autonomous Robotics and Control Lab (ARCL), Caltech
+    date_start: 2019-01-01
+    # date_end: 
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Lead systems architect, project manager and field deployment (\href{https://www.indyautonomouschallenge.com/california-institute-of-technology-joins-the-indy-autonomous-challenge}{Indy Autonomous Challenge})            
+      - Lead systems integrator, management and field deployment (\href{https://www.darpa.mil/news-events/2024-3-7}{DARPA LINC}, JPL collab.)
+      - Developed a UAV-borne volcanic gas sampling and autonomy system (Volcano Drone)%\hfill {\color{blue}\href{https://arc.aiaa.org/doi/abs/10.2514/6.2021-1409}{(SciTech 2021)}}
+      - Led UAS hardware and flight operations for multistatic SAR multi-UAS (DARTS, JPL collab.) %\hfill {\color{blue}\href{https://igarss2021.com/view_paper.php?PaperNum=2261}{(IGARSS 2021)}}
+      - Assisted with hardware design and operations for tube-launched UAS (SQUID, JPL collab.)
+      - Overhauled design of low-level firmware and robotic hardware (\href{https://www.darpa.mil/program/darpa-subterranean-challenge}{DARPA SubT}, JPL collab.)
+      - Flight test pilot for UAS, ground vehicles (including Indy NXT) and surface vessels.
+      - Designed tech.~demonstrator aircraft for the Autonomous Flying Ambulance project %\hfill {\color{blue}\href{https://arc.aiaa.org/doi/abs/10.2514/6.2021-1514}{(SciTech 2021)}}
+      - Supported 10+ technically diverse ARCL robotics projects towards success
+      - Ensured UAS regulatory compliance for both NASA (public) and Part 107 UAS
+      - Developed and lectured \textit{Experimental Robotics} course %\hfill (ME/CS/EE 129)           
+
+  - position: PostDoc / Hardware Integrator
+    company: DARPA Subterranean Challenge (SubT), Jet Propulsion Laboratory
+    date_start: 2018-01-01
+    date_end: 2019-01-01
+    summary: |2-
+      - Led hardware development of a team of heterogeneous robots for underground exploration
+      - Performed sensor integration, design, and operations for both custom and COTS systems
+      - Coded embedded low-level software, including interfacing with ROS 
+      - Developed a redundant, highly-reliable robot safety systems for remote operations
+      - Formulated safety procedures and protocols for underground operations (including flight) 
+      - Acted as on-Lab and Remote Field Test Lead for teams of varying sizes and levels of experience 
+
+  - postion: UAS GCS Operator / Support Crew
+    company: Self-Employed
+    date_start: 2017-01-01
+    date_end: 2018-01-01
+    summary: |2-
+      - Flew high-risk missions including multi-vehicle and UAS-detection field trials as GCS Operator
+      - Consulted for UAS projects (airframe, components, autopilot, operations)
+      - Provided technical and logistical support for UAS operations
+
+  - position: Researcher / Guest Lecturer / UAV GCS Operator
+    company: The University of Sydney – Aeronautics Department / ACFR
+    date_start: 2013-01-01
+    date_end: 2028-01-1
+    summary: |2-
+      - Designed Phase 1 submission for the Wasp AE replacement for the Australian Army
+      - Supported several projects designing, building and operating UAVs for research  
+      - Unofficial `go-to guy' for UAV Lab support (undergrad theses, PhD work, wind tunnel, etc.)
+      - Guest lectured for Professional Engineering, UAV Operations and Workplace Health and Safety
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
