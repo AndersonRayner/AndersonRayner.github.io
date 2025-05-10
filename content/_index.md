@@ -32,11 +32,6 @@ sections:
           parallax: true
 
   - block: collection
-    id: skills:
-    content:
-      title: Skills
-
-  - block: collection
     id: projects
     content:
       title: Projects
