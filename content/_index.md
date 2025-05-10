@@ -19,7 +19,7 @@ sections:
         text: CV (Academic)
         url: https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf
 
-design:
+    design:
       css_class: dark
       background:
         color: black
