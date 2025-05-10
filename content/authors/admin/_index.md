@@ -55,11 +55,11 @@ education:
     year: 2018
     # date_start: 2016-01-01
     # date_end: 2020-12-31
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: B.Eng (Aeronautics) Hons I
     institution: The University of Sydney
     year: 2011
@@ -172,4 +172,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Field roboticist, aero engineer, and low-level programmer who is always looking for the next challenging adventure.  Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
+
+While you're here, check out my projects, publications, and feel free to contact me below.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" "newtab" >}}cv (academic){{< /staticref >}} / {{< staticref "https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf" "newtab" >}}cv (industry){{< /staticref >}}.
