@@ -116,7 +116,7 @@ work:
   - position: Researcher / Guest Lecturer / UAV GCS Operator
     company: The University of Sydney – Aeronautics Department / ACFR
     date_start: 2013-01-01
-    date_end: 2028-01-1
+    date_end: 2028-01-01
     summary: |2-
       - Designed Phase 1 submission for the Wasp AE replacement for the Australian Army
       - Supported several projects designing, building and operating UAVs for research  
