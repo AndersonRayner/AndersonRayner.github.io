@@ -203,4 +203,4 @@ Field roboticist, aero engineer, and low-level programmer who is always looking 
 
 While you're here, check out my projects, publications, and feel free to contact me below.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" "newtab" >}}cv (academic){{< /staticref >}} / {{< staticref "https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf" "newtab" >}}cv (industry){{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" "newtab" >}}cv (academic){{< /staticref >}} / {{< staticref "https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf" "newtab" >}}cv (industry){{< /staticref >}}. -->
