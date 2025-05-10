@@ -24,7 +24,7 @@ role: Staff Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Caltech
+  - name: California Institute of Technology
     url: https://caltech.edu/
 
 # Social network links
