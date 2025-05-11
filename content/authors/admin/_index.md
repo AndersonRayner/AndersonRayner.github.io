@@ -132,11 +132,11 @@ skills:
       - name: System Integration and Architecture
       - name: UAS Pilot / Ground Station Operator
         icon: chart-bar
-      - name: Embedded Systems C/C++, ROS1/2
+      - name: Embedded Systems, C/C++, ROS1/2
         icon: r-project
         icon_pack: fab
       - name: Rapid Prototyping and Design
-      - name: Aircraft Design / System Identification
+      - name: Aircraft Design and System Identification
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
