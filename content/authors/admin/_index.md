@@ -9,6 +9,8 @@ name_pronunciation: Matt Anderson
 first_name: Matt
 last_name: Anderson
 
+date_format = "2006"
+
 # Status emoji
 # status:
 #   icon: ☕️
@@ -52,20 +54,20 @@ interests:
 education:
   - area: PhD (Aeronautics)
     institution: The University of Sydney and Université Libre de Bruxelles
-    year: 2018
-    # date_start: 2016-01-01
-    # date_end: 2020-12-31
+    date_start: "2011"
+    date_end: "2018"
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      THESIS TITLE
+      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: B.Eng (Aeronautics) Hons I
     institution: The University of Sydney
-    year: 2011
-    # date_start: 2016-01-01
-    # date_end: 2020-12-31
-    # summary: |
+    date_start: "2007"
+    date_end: "2010"
+    summary: |
+      THESIS TITLE
       # GPA: 3.8/4.0
       # Courses included:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -73,7 +75,6 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-
 
   - position: Staff Scientist / PostDoc / Lecturer
     company: Autonomous Robotics and Control Lab (ARCL), Caltech
