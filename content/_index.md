@@ -36,6 +36,7 @@ sections:
     content:
       title: Skills
     design:
+      view: article-grid
       columns: 3
 
   - block: collection
