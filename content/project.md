@@ -19,7 +19,7 @@ sections:
       show_date: false
     design:
       view: article-grid
-      fill_image: true
+      # fill_image: true
       columns: 3
       date_format: '2006'
 ---
