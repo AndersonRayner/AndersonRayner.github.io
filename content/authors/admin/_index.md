@@ -134,9 +134,9 @@ skills:
         icon_pack: fas
         icon: wrench
       - name: UAS Pilot / Ground Station Operator
-        icon: chart-bar
-        # icon: gamepad
-        # icon_pack: fas
+        # icon: chart-bar
+        icon: gamepad
+        icon_pack: fas
       - name: Embedded Systems, C/C++, ROS1/2
         icon: laptop-code
         icon_pack: fas
