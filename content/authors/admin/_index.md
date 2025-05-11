@@ -126,13 +126,11 @@ work:
 skills:
   - name: Technical Skills
     design:
-      columns: '3'
+      columns: '2'
     items:
       - name: Extreme Environment <br> Field Testing
         description: 'This is a test'
-        icon_pack: fas
-        icon: crow
-        # percent: 100
+        icon: fas/crow
       - name: System Integration <br> and Architecture
       - name: UAS Pilot / <br> Ground Station Operator
         icon: chart-bar
