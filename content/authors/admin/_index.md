@@ -9,7 +9,7 @@ name_pronunciation: Matt Anderson
 first_name: Matt
 last_name: Anderson
 
-date_format = "2006"
+date_format: "2006"
 
 # Status emoji
 # status:
