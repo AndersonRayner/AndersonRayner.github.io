@@ -141,7 +141,7 @@ skills:
         icon: laptop-code
         icon_pack: fas
       - name: Rapid Prototyping and Design
-        icon_pack: fas
+        # icon_pack: fas
         icon: cube
       - name: Aircraft Design and System Identification
         icon_pack: fas
