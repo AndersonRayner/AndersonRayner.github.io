@@ -124,33 +124,33 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Extreme Environment <br> Field Testing
+  # - name: Technical Skills
+  - items:
+      - name: Extreme Environment Field Testing
         description: 'This is a test'
         icon: fas/crow
-      - name: System Integration <br> and Architecture
-      - name: UAS Pilot / <br> Ground Station Operator
+      - name: System Integration and Architecture
+      - name: UAS Pilot / Ground Station Operator
         icon: chart-bar
-      - name: Embedded Systems <br> C/C++, ROS1/2
-      - name: Rapid Prototyping </br> and Design
-      - name: Aircraft Design / <br> System Identification
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        # percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        # icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        # icon: camera
+      - name: Embedded Systems C/C++, ROS1/2
+      - name: Rapid Prototyping and Design
+      - name: Aircraft Design / System Identification
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       # percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       # icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       # icon: camera
 
 # languages:
 #   - name: English
