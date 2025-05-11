@@ -125,8 +125,7 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
-    design:
-      columns: '2'
+    columns: '3'
     items:
       - name: Extreme Environment <br> Field Testing
         description: 'This is a test'
