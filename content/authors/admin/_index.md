@@ -127,7 +127,7 @@ skills:
   # - name: Technical Skills
   - items:
     - name: Extreme Environment Field Testing
-      description: 'Field team lead, operations and safety'
+      description: 'Field team lead, pilotage, operations and safety'
       icon: crow-solid
     - name: System Integration and Architecture
       description: 'Full stack autonomoy system development at both hardware and software levels'

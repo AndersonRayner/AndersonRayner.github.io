@@ -59,10 +59,10 @@ sections:
   - block: skills
     content:
       title: Skills
-    # design:
+    design:
       # width: full
     #   view: article-grid
-    #   columns: 3
+      columns: 1
 
   - block: collection
     id: projects
