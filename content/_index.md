@@ -14,9 +14,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: CV (Academic)
-        url: https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf
+      # button:
+      #   text: CV (Academic)
+      #   url: https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf
 
     design:
       css_class: dark

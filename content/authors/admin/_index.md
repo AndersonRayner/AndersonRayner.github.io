@@ -57,8 +57,7 @@ education:
     date_start: 2011-01-01
     date_end: 2018-01-01
     summary: |
-      THESIS TITLE
-      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Methodology for Aerodynamic Parameter Estimation of Tail-Sitting Multirotors
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -66,8 +65,7 @@ education:
     institution: The University of Sydney
     date_start: 2007-01-01
     date_end: 2010-01-01
-    summary: |
-      THESIS TITLE
+    # summary: |
       # GPA: 3.8/4.0
       # Courses included:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -76,7 +74,7 @@ education:
 
 work:
   - position: Staff Scientist / PostDoc / Lecturer
-    company: Autonomous Robotics and Control Lab (ARCL), Caltech
+    company_name: Autonomous Robotics and Control Lab (ARCL), Caltech
     date_start: 2019-01-01
     # date_end: 
     summary: |2-
@@ -93,7 +91,7 @@ work:
       - Developed and lectured Experimental Robotics course (ME/CS/EE 129)
 
   - position: PostDoc / Hardware Integrator
-    company: DARPA Subterranean Challenge (SubT), Jet Propulsion Laboratory
+    company_name: DARPA Subterranean Challenge (SubT), Jet Propulsion Laboratory
     date_start: 2018-01-01
     date_end: 2019-01-01
     summary: |2-
@@ -105,7 +103,7 @@ work:
       - Acted as on-Lab and Remote Field Test Lead for teams of varying sizes and levels of experience 
 
   - position: UAS GCS Operator / Support Crew
-    company: Self-Employed
+    company_name: Self-Employed
     date_start: 2017-01-01
     date_end: 2018-01-01
     summary: |2-
@@ -114,7 +112,7 @@ work:
       - Provided technical and logistical support for UAS operations
 
   - position: Researcher / Guest Lecturer / UAV GCS Operator
-    company: The University of Sydney – Aeronautics Department / ACFR
+    company_name: The University of Sydney – Aeronautics Department / ACFR
     date_start: 2013-01-01
     date_end: 2028-01-01
     summary: |2-
@@ -198,5 +196,3 @@ skills:
 Field roboticist, aero engineer, and low-level programmer who is always looking for the next challenging adventure.  Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
 
 Download my <a class="github-button" href="https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">CV (Academic)</a> / <a class="github-button" href="https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">CV (Industry)</a>.
-
-
