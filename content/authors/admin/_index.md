@@ -147,13 +147,13 @@ skills:
   - name: Experience
     items:
     - name: Staff Scientist (Caltech)
-      description: 'Field team lead, pilotage, operations and safety'
+      description: 'Indy Autonomous Chanllenge <br> DARPA LINC <br> Volcano Drone <br> JPL DARTS <br> SQUID <br> Autonomous Flying Amubulance <br> Lecturer'
       # icon: caltech
     - name: Post-Doc (JPL)
-      description: 'Full stack autonomoy <br> system development at both hardware and software levels'
+      description: 'DARPA Subterranean Challenge <br> Field Lead'
       # icon: jpl
     - name: Researcher (USyd)
-      description: 'Part 107 certified, AMA Fixed-Wing Gold Wings, Test Pilot, R/C Hobbyist'
+      description: 'Wasp AE replacement for the Australian Army <br> UAV Lab support <br> Guest Lecturer'
       # icon: usyd
 
   # - name: Hobbies
