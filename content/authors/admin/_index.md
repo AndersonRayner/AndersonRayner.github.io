@@ -126,41 +126,43 @@ work:
 skills:
   # - name: Technical Skills
   - items:
-      - name: Extreme Environment Field Testing
-        description: 'This is a test'
-        icon: crow
-        icon_pack: fas
-      - name: System Integration and Architecture
-        icon_pack: fas
-        icon: wrench
-      - name: UAS Pilot / Ground Station Operator
-        # icon: chart-bar
-        icon: gamepad
-        icon_pack: fas
-      - name: Embedded Systems, C/C++, ROS1/2
-        icon: laptop-code
-        icon_pack: fas
-      - name: Rapid Prototyping and Design
-        # icon_pack: fas
-        icon: cube
-      - name: Aircraft Design and System Identification
-        icon_pack: fas
-        icon: plane
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        # percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        # icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
+    - name: Extreme Environment Field Testing
+      description: 'This is a test'
+      icon: crow
+      icon_pack: fas
+    - name: System Integration and Architecture
+      icon_pack: fas
+      icon: wrench
+  - items:
+    - name: UAS Pilot / Ground Station Operator
+      # icon: chart-bar
+      icon: gamepad
+      icon_pack: fas
+    - name: Embedded Systems, C/C++, ROS1/2
+      icon: laptop-code
+      icon_pack: fas
+  - items: 
+    - name: Rapid Prototyping and Design
+      icon_pack: fas
+      icon: cube
+    - name: Aircraft Design and System Identification
+      icon_pack: fas
+      icon: plane
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       # percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       # icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
         # icon: camera
 
 # languages:
