@@ -63,7 +63,7 @@ sections:
     design:
       # width: full
     #   view: article-grid
-      columns: 2
+      columns: 3
 
   - block: collection
     id: projects

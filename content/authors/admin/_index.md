@@ -145,6 +145,16 @@ skills:
     - name: Aircraft Design and System Identification
       description: 'Fixed-wing, multirotor and powered-lift aircraft'
       icon: plane-solid
+  - items:
+    - name: Embedded Systems, C/C++, ROS1/2
+      description: 'Low level driver development, safety critical systems, ROS1/2 interfacing' 
+      icon: laptop-code-solid
+    - name: Rapid Prototyping and Design
+      description: '3D printing, laser cutting, mill/lathe for rapid design iteration'
+      icon: cube-solid
+    - name: Aircraft Design and System Identification
+      description: 'Fixed-wing, multirotor and powered-lift aircraft'
+      icon: plane-solid
   # - name: Experience
   #   items:
   #   - name: Staff Scientist (Caltech)
