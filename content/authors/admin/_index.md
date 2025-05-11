@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD (Aeronautics)
     institution: The University of Sydney and Université Libre de Bruxelles
-    date_start: "2011"
-    date_end: "2018"
+    date_start: 2011-01-01
+    date_end: 2018-01-01
     summary: |
       THESIS TITLE
       # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -64,8 +64,8 @@ education:
     #   url: 'https://example.com'
   - area: B.Eng (Aeronautics) Hons I
     institution: The University of Sydney
-    date_start: "2007"
-    date_end: "2010"
+    date_start: 2007-01-01
+    date_end: 2010-01-01
     summary: |
       THESIS TITLE
       # GPA: 3.8/4.0
