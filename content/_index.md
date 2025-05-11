@@ -32,16 +32,19 @@ sections:
           position: center
           parallax: true
 
-  - block: featurette
+  - block: skills
     content:
       title: Skills
-      feature:
+      items:
+        - icon: crow
+          icon_pack: fas
+          name: Extreme Environment <br> Field Testing
+        - icon: wrench
+          icon_pack: fas
+          name: System Integration <br> and Architecture
         - icon: laptop-code
           icon_pack: fas
           name: Embedded Systems <br> C/C++, ROS
-        - icon: plane
-          icon_pack: fas
-          name: Aircraft Design / <br> System Identification
 
   - block: collection
     id: projects
