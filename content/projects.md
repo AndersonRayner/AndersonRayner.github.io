@@ -16,8 +16,10 @@ sections:
       filters:
         folders:
           - project
+      show_date: false
     design:
       view: article-grid
       fill_image: false
       columns: 3
+      date_format: '2006'
 ---
