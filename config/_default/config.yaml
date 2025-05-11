@@ -26,8 +26,8 @@ module:
       version: "v5.7.0"
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
       version: "v5.7.0"
-    - path: github.com/HugoBlox/hugo-blox-theme/v5
-    - path: github.com/hugo-mods/icons
+    # - path: github.com/HugoBlox/hugo-blox-theme/v5
+    # - path: github.com/hugo-mods/icons
 
 ############################
 ## ADVANCED
