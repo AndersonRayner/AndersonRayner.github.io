@@ -43,8 +43,8 @@ profiles:
     url: https://scholar.google.com/citations?user=yG6xm2gAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8884-3448
-  - icon: academicons/cv
-    link: https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf
+  # - icon: academicons/cv
+  #   link: https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf
 
 interests:
   - Extreme Field Robotics
@@ -197,7 +197,6 @@ skills:
 
 Field roboticist, aero engineer, and low-level programmer who is always looking for the next challenging adventure.  Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
 
-While you're here, check out my projects, publications, and feel free to contact me below.
+Download my <a class="github-button" href="https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">CV (Academic)</a> / <a class="github-button" href="https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">CV (Industry)</a>.
 
-<a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
 
