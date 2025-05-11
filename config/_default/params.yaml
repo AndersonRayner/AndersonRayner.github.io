@@ -6,8 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
-  # color: forest
+  # color: emerald
+  color: forest
   # day_night: true
 # SEO
 marketing:
