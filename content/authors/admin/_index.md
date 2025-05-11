@@ -128,31 +128,22 @@ skills:
   - items:
     - name: Extreme Environment Field Testing
       description: 'Field team lead, operations and safety'
-      icon: crow
-      # icon_pack: fas
+      icon: crow-solid
     - name: System Integration and Architecture
       description: 'Full stack autonomoy system development at both hardware and software levels'
-      icon_pack: fas
-      icon: wrench
+      icon: wrench-solid
     - name: UAS Pilot / Ground Station Operator
       description: 'Part 107 Qualified, AMA Fixed Wing Gold Wings, Test Pilot, R/C Hobbyist'
-      # icon: chart-bar
-      icon: gamepad
-      icon_pack: fas
+      icon: gamepad-solid
     - name: Embedded Systems, C/C++, ROS1/2
       description: 'Low level driver development, safety critical systems, ROS1/2 interfacing' 
-      # icon: fas/laptop-code
-      # icon_pack: fas
-      icon: chart-line
-      icon_pack: fas
+      icon: laptop-code-solid
     - name: Rapid Prototyping and Design
       description: '3D printing, laser cutting, mill/lathe for rapid design iteration'
-      icon_pack: fas
-      icon: cube
+      icon: cube-solid
     - name: Aircraft Design and System Identification
       description: 'Design and modelling of fixed-wing, multirotor and powered-lift aircraft computationally and experimentally'
-      icon_pack: fas
-      icon: plane
+      icon: plane-solid
 
   # - name: Hobbies
   #   color: '#eeac02'
