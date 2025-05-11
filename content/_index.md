@@ -34,9 +34,9 @@ sections:
 
   - block: features
     content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
+      title: Skills
+      # subtitle: Section subtitle
+      # text: Section text
       items:
         - name: R
           description: 90%
@@ -50,6 +50,8 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+      design:
+        columns: 3
 
   - block: skills
     content:
