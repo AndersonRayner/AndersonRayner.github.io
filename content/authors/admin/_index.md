@@ -128,15 +128,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Extreme Environment <br> Field Testing
+        description: 'This is a test'
+        # percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        # percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -144,16 +144,16 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        # percent: 60
         icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        # icon: cat
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        # icon: camera
 
 # languages:
 #   - name: English

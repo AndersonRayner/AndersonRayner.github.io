@@ -35,16 +35,6 @@ sections:
   - block: skills
     content:
       title: Skills
-      items:
-        - icon: crow
-          icon_pack: fas
-          name: Extreme Environment <br> Field Testing
-        - icon: wrench
-          icon_pack: fas
-          name: System Integration <br> and Architecture
-        - icon: laptop-code
-          icon_pack: fas
-          name: Embedded Systems <br> C/C++, ROS
 
   - block: collection
     id: projects
