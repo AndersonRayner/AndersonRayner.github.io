@@ -75,7 +75,6 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-
   - position: Staff Scientist / PostDoc / Lecturer
     company: Autonomous Robotics and Control Lab (ARCL), Caltech
     date_start: 2019-01-01
@@ -158,9 +157,9 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
+# languages:
+#   - name: English
+#     percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -199,4 +198,6 @@ languages:
 Field roboticist, aero engineer, and low-level programmer who is always looking for the next challenging adventure.  Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
 
 While you're here, check out my projects, publications, and feel free to contact me below.
+
+<a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
 
