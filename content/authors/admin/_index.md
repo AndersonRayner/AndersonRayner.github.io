@@ -213,11 +213,12 @@ skills:
 
 Field roboticist, aero engineer, and low-level programmer who is always looking for the next challenging adventure.  Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
 
-https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf
-
-Download my <a class="github-button" href="https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="small" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">CV (Academic)</a> / <a class="github-button" href="https://www.google.com" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="small" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">CV (Industry)</a>.
-
-<a href="https://www.google.com" class="btn btn-primary" target="_blank" rel="noopener">
+Download my 
+<a href="https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" class="btn btn-primary" target="_blank" rel="noopener">
+  <i class="fas fa-download"></i> CV (Academic)
+</a>
+/
+<a href="https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf" class="btn btn-primary" target="_blank" rel="noopener">
   <i class="fas fa-download"></i> CV (Industry)
 </a>
 
