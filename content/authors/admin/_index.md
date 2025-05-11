@@ -130,10 +130,12 @@ skills:
     items:
       - name: Extreme Environment <br> Field Testing
         description: 'This is a test'
+        icon_pack: fas
+        icon: crow
         # percent: 100
-        icon: chart-bar
       - name: System Integration <br> and Architecture
       - name: UAS Pilot / <br> Ground Station Operator
+        icon: chart-bar
       - name: Embedded Systems <br> C/C++, ROS1/2
       - name: Rapid Prototyping </br> and Design
       - name: Aircraft Design / <br> System Identification
