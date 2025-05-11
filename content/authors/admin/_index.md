@@ -142,7 +142,7 @@ skills:
       description: '3D printing, laser cutting, mill/lathe for rapid design iteration'
       icon: cube-solid
     - name: Aircraft Design and System Identification
-      description: 'Design and modelling of fixed-wing, multirotor and powered-lift aircraft computationally and experimentally'
+      description: 'Fixed-wing, multirotor and powered-lift aircraft'
       icon: plane-solid
 
   # - name: Hobbies
