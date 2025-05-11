@@ -148,13 +148,14 @@ skills:
     items:
     - name: Staff Scientist (Caltech)
       description: 'Field team lead, pilotage, operations and safety'
-      icon: caltech
+      # icon: caltech
     - name: Post-Doc (JPL)
       description: 'Full stack autonomoy <br> system development at both hardware and software levels'
-      icon: jpl
+      # icon: jpl
     - name: Researcher (USyd)
       description: 'Part 107 certified, AMA Fixed-Wing Gold Wings, Test Pilot, R/C Hobbyist'
-      icon: usyd
+      # icon: usyd
+
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
