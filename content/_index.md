@@ -25,10 +25,10 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          # filename: stacked-peaks.svg
+          filename: stacked-peaks.svg
           # filename: flat-mountains.svg
           # filename: subtle-prism.svg
-          filename: topography.svg
+          # filename: topography.svg
           filters:
             brightness: 1.0
           size: cover
