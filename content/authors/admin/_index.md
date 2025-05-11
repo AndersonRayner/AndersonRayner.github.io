@@ -124,8 +124,8 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  # - name: Skills
-  - items:
+  - name: Skills
+    items:
     - name: Extreme Environment Field Testing
       description: 'Field team lead, pilotage, operations and safety'
       icon: crow-solid
@@ -135,7 +135,7 @@ skills:
     - name: UAS Pilot / Ground Station Operator
       description: 'Part 107 certified, AMA Fixed-Wing Gold Wings, Test Pilot, R/C Hobbyist'
       icon: gamepad-solid
-  - items:
+    items:
     - name: Embedded Systems, C/C++, ROS1/2
       description: 'Low level driver development, safety critical systems, ROS1/2 interfacing' 
       icon: laptop-code-solid
@@ -145,27 +145,17 @@ skills:
     - name: Aircraft Design and System Identification
       description: 'Fixed-wing, multirotor and powered-lift aircraft'
       icon: plane-solid
-  - items:
-    - name: Embedded Systems, C/C++, ROS1/2
-      description: 'Low level driver development, safety critical systems, ROS1/2 interfacing' 
-      icon: laptop-code-solid
-    - name: Rapid Prototyping and Design
-      description: '3D printing, laser cutting, mill/lathe for rapid design iteration'
-      icon: cube-solid
-    - name: Aircraft Design and System Identification
-      description: 'Fixed-wing, multirotor and powered-lift aircraft'
-      icon: plane-solid
-  # - name: Experience
-  #   items:
-  #   - name: Staff Scientist (Caltech)
-  #     description: 'Indy Autonomous Chanllenge <br> DARPA LINC <br> Volcano Drone <br> JPL DARTS <br> SQUID <br> Autonomous Flying Amubulance <br> Lecturer'
-  #     # icon: caltech
-  #   - name: Post-Doc (JPL)
-  #     description: 'DARPA Subterranean Challenge <br> Field Lead'
-  #     # icon: jpl
-  #   - name: Researcher (USyd)
-  #     description: 'Wasp AE replacement for the Australian Army <br> UAV Lab support <br> Guest Lecturer'
-  #     # icon: usyd
+  - name: Experience
+    items:
+    - name: Staff Scientist (Caltech)
+      description: 'Indy Autonomous Chanllenge <br> DARPA LINC <br> Volcano Drone <br> JPL DARTS <br> SQUID <br> Autonomous Flying Amubulance <br> Lecturer'
+      # icon: caltech
+    - name: Post-Doc (JPL)
+      description: 'DARPA Subterranean Challenge <br> Field Lead'
+      # icon: jpl
+    - name: Researcher (USyd)
+      description: 'Wasp AE replacement for the Australian Army <br> UAV Lab support <br> Guest Lecturer'
+      # icon: usyd
 
   # - name: Hobbies
   #   color: '#eeac02'
