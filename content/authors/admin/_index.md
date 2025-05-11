@@ -128,15 +128,24 @@ skills:
   - items:
       - name: Extreme Environment Field Testing
         description: 'This is a test'
-        icon: fas/crow
+        icon: crow
+        icon_pack: fas
       - name: System Integration and Architecture
+        icon_pack: fas
+        icon: wrench
       - name: UAS Pilot / Ground Station Operator
         icon: chart-bar
+        # icon: gamepad
+        # icon_pack: fas
       - name: Embedded Systems, C/C++, ROS1/2
-        icon: r-project
-        icon_pack: fab
+        icon: laptop-code
+        icon_pack: fas
       - name: Rapid Prototyping and Design
+        icon_pack: fas
+        icon: cube
       - name: Aircraft Design and System Identification
+        icon_pack: fas
+        icon: plane
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
