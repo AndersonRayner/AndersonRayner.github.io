@@ -56,7 +56,8 @@ sections:
   - block: skills
     content:
       title: Skills
-    # design:
+    design:
+      width: full
     #   view: article-grid
     #   columns: 3
 
