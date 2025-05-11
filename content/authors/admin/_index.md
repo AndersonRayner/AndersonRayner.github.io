@@ -133,6 +133,8 @@ skills:
       - name: UAS Pilot / Ground Station Operator
         icon: chart-bar
       - name: Embedded Systems C/C++, ROS1/2
+        icon: r-project
+        icon_pack: fab
       - name: Rapid Prototyping and Design
       - name: Aircraft Design / System Identification
   # - name: Hobbies
