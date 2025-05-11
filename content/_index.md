@@ -27,7 +27,8 @@ sections:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
           # filename: flat-mountains.svg
-          filename: subtle-prism.svg
+          # filename: subtle-prism.svg
+          filename: topography.svg
           filters:
             brightness: 1.0
           size: cover
