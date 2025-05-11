@@ -133,7 +133,7 @@ skills:
       description: 'Full stack autonomoy system development at both hardware and software levels'
       icon: wrench-solid
     - name: UAS Pilot / Ground Station Operator
-      description: 'Part 107 Qualified, AMA Fixed Wing Gold Wings, Test Pilot, R/C Hobbyist'
+      description: 'Part 107 certified, AMA Fixed-Wing Gold Wings, Test Pilot, R/C Hobbyist'
       icon: gamepad-solid
     - name: Embedded Systems, C/C++, ROS1/2
       description: 'Low level driver development, safety critical systems, ROS1/2 interfacing' 
