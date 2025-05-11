@@ -125,19 +125,18 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
+    design:
+      columns: '3'
     items:
-      - name: Python
-        description: ''
-        # percent: 80
-        icon: code-bracket
       - name: Extreme Environment <br> Field Testing
         description: 'This is a test'
         # percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        # percent: 40
-        icon: circle-stack
+      - name: System Integration <br> and Architecture
+      - name: UAS Pilot / <br> Ground Station Operator
+      - name: Embedded Systems <br> C/C++, ROS1/2
+      - name: Rapid Prototyping </br> and Design
+      - name: Aircraft Design / <br> System Identification
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
