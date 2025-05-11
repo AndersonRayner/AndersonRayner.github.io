@@ -135,7 +135,7 @@ skills:
     - name: UAS Pilot / Ground Station Operator
       description: 'Part 107 certified, AMA Fixed-Wing Gold Wings, Test Pilot, R/C Hobbyist'
       icon: gamepad-solid
-  - items
+  - items:
     - name: Embedded Systems, C/C++, ROS1/2
       description: 'Low level driver development, safety critical systems, ROS1/2 interfacing' 
       icon: laptop-code-solid
