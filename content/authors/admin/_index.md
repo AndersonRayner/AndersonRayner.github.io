@@ -124,8 +124,8 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  # - name: Technical Skills
-  - items:
+  - name: Skills
+    items:
     - name: Extreme Environment Field Testing
       description: 'Field team lead, pilotage, operations and safety'
       icon: crow-solid
@@ -144,15 +144,15 @@ skills:
     - name: Aircraft Design and System Identification
       description: 'Fixed-wing, multirotor and powered-lift aircraft'
       icon: plane-solid
-  # - name: Experience
-  - items:
+  - name: Experience
+    items:
     - name: Staff Scientist (Caltech)
       description: 'Field team lead, pilotage, operations and safety'
       icon: caltech
     - name: Post-Doc (JPL)
-      description: 'Full stack autonomoy system development <br> at both hardware and software levels'
+      description: 'Full stack autonomoy <br> system development at both hardware and software levels'
       icon: jpl
-    - name: Researcher (University of Sydney)
+    - name: Researcher (USyd)
       description: 'Part 107 certified, AMA Fixed-Wing Gold Wings, Test Pilot, R/C Hobbyist'
       icon: usyd
   # - name: Hobbies

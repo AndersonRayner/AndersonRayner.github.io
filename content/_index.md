@@ -57,8 +57,8 @@ sections:
   #       columns: 3
 
   - block: skills
-    content:
-      title: Skills and Experience
+    # content:
+    #   title: Skills and Experience
     design:
       # width: full
     #   view: article-grid
