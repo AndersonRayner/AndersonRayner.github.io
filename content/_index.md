@@ -35,6 +35,8 @@ sections:
   - block: skills
     content:
       title: Skills
+    design:
+      columns: 3
 
   - block: collection
     id: projects
