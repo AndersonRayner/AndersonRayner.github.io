@@ -1,7 +1,6 @@
 ---
 title: test project
 date: 2026-03-08
-draft: true
 summary: "What problem does this solve? Keep it to one or two sentences."
 
 links:
