@@ -2,18 +2,18 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Matt Anderson
+  given: Matt
+  family: Anderson
+  alternate: ''
+  pronunciation: ''
+  # pronouns: he/him
 postnominals:
   - PhD
-  - MIEEE
+  # - MIEEE
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "✈️"
+role: Staff Scientist
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -21,49 +21,44 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: California Institute of Technology
+    url: https://caltech.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: 'mailto:matt.jl.anderson@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/andersonrayner
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/matt-anderson-uav/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=yG6xm2gAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-8884-3448
+  # - icon: academicons/cv
+  #   link: https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Extreme Field Robotics
+  - UAS
+  - Climbing Adventures
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD (Aeronautics)
+    institution: The University of Sydney and Université Libre de Bruxelles
+    start: 2011-01-01
+    end: 2018-01-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Methodology for Aerodynamic Parameter Estimation of Tail-Sitting Multirotors
     button:
-      text: Download dissertation
+      text: Download dissertation (TODO)
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: B.Eng (Aeronautics) Hons I
+    institution: The University of Sydney
+    start: 2007-01-01
+    end: 2010-01-01
 
 experience:
   - role: Senior AI Research Scientist
