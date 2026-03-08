@@ -2,7 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Flight Experimentation Towards Enhanced UAV Capabilities – The Multi-rotor Air-Crane"
-authors: [Matthew Anderson, Kai Lehmkuehler, and KC Wong]
+authors: 
+- Matthew Anderson
+- Kai Lehmkuehler
+- KC Wong
 date: 2017-02-26
 doi: ""
 
@@ -13,13 +16,14 @@ publishDate: 2017-02-26
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: 
+  - paper-conference
 
 # Publication name and optional abbreviated publication name.
 publication: "17th Australian Aerospace Congress"
 publication_short: ""
 
-abstract: "This paper discusses the development and successful flight testing of a multirotor sky-crane system used for launching aircraft from altitude.  Research and testing has been conducted on the  configuration  of  the  multi-rotor, the length of the cable to reduce the influence of the downwash on the load, the launch cradle design which holds the load in the correct position until release and the launch procedures to ensure safe operation of both the multi-rotor and the test airframe. Flight testing with an instrumented test aircraft allowed the determination of the optimum launch attitude and the general operating procedures, including a fast and safe method for the sky-crane to rapidly descent from altitude after the launch."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,14 +40,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 # https://arxiv.org/pdf/1911.10269.pdf
-url_pdf:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video: https://www.youtube.com/watch?v=WshOAMU8E0c
+links:
+- name: Youtube
+  url: https://www.youtube.com/watch?v=WshOAMU8E0c
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -67,3 +66,5 @@ projects: [rcFun]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+This paper discusses the development and successful flight testing of a multirotor sky-crane system used for launching aircraft from altitude.  Research and testing has been conducted on the  configuration  of  the  multi-rotor, the length of the cable to reduce the influence of the downwash on the load, the launch cradle design which holds the load in the correct position until release and the launch procedures to ensure safe operation of both the multi-rotor and the test airframe. Flight testing with an instrumented test aircraft allowed the determination of the optimum launch attitude and the general operating procedures, including a fast and safe method for the sky-crane to rapidly descent from altitude after the launch.

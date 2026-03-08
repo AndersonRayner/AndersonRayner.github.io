@@ -2,7 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Design and Autonomous Stabilization of a Ballistically-Launched Multirotor"
-authors: [Amanda Bouman, Paul Nadan, Matthew Anderson, Daniel Pastor, Jacob Izraelevitz, Joel Burdick, Brett Kennedy]
+authors:
+- Amanda Bouman
+- Paul Nadan
+- Matthew Anderson
+- Daniel Pastor
+- Jacob Izraelevitz
+- Joel Burdick
+- Brett Kennedy
 date: 2020-05-31T21:49:38-07:00
 doi: "10.1109/ICRA40945.2020.9197542"
 
@@ -13,13 +20,14 @@ publishDate: 2021-05-09T21:49:38-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: 
+  - paper-conference
 
 # Publication name and optional abbreviated publication name.
 publication: "2020 IEEE International Conference on Robotics and Automation"
 publication_short: "ICRA2020"
 
-abstract: "Aircraft that can launch ballistically and convert to autonomous, free-flying drones have applications in many areas such as emergency response, defense, and space exploration, where they can gather critical situational data using onboard sensors. This paper presents a ballistically-launched, autonomously-stabilizing multirotor prototype (SQUID - Streamlined Quick Unfolding Investigation Drone) with an onboard sensor suite, autonomy pipeline, and passive aerodynamic stability. We demonstrate autonomous transition from passive to vision-based, active stabilization, confirming the multirotor's ability to autonomously stabilize after a ballistic launch in a GPS-denied environment."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,14 +44,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 # https://arxiv.org/pdf/1911.10269.pdf
-url_pdf:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+# url_pdf:
+# url_code:
+# url_dataset:
+# url_poster:
+# url_project:
+# url_slides:
+# url_source:
+# url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -67,3 +75,5 @@ projects: [SQUID]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+Aircraft that can launch ballistically and convert to autonomous, free-flying drones have applications in many areas such as emergency response, defense, and space exploration, where they can gather critical situational data using onboard sensors. This paper presents a ballistically-launched, autonomously-stabilizing multirotor prototype (SQUID - Streamlined Quick Unfolding Investigation Drone) with an onboard sensor suite, autonomy pipeline, and passive aerodynamic stability. We demonstrate autonomous transition from passive to vision-based, active stabilization, confirming the multirotor's ability to autonomously stabilize after a ballistic launch in a GPS-denied environment.
