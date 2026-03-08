@@ -7,7 +7,6 @@ authors:
 - KC Wong
 - Patrick Hendrick
 date: 2014-01-01
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2014-01-01
@@ -40,15 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 # https://arxiv.org/pdf/1911.10269.pdf
-# url_pdf:
-# url_code:
-# url_dataset:
-# url_poster:
-# url_project:
-# url_slides:
-# url_source:
-# url_video:
-
+#
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -62,7 +53,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- cfd
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

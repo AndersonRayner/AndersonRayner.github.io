@@ -53,7 +53,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [uas]
+projects: 
+- uas
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -61,6 +62,7 @@ projects: [uas]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 Propeller dynamics play an important role in the stability and controllability of multirotor unmanned aerial vehicles (UAVs), however are often greatly simplified or even neglected altogether when designing multirotor simulations.  This paper presents a method for calculating and simulating the dynamics of a brushless motor and propeller typical of the size used in small multirotors so that the rotation speed and generated forces may be accurately reconstructed from an input pulse width modulation (PWM) signal. 
