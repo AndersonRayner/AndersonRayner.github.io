@@ -68,8 +68,8 @@ sections:
           - projects
         featured_only: false
     design:
-      view: article-grid
-      columns: 3
+      view: slider
+      # columns not needed for a slider
 
   - block: collection
     id: papers
@@ -80,6 +80,7 @@ sections:
         folders:
           - publications
         featured_only: true
+      count: 3                     # show at most three items
     design:
       view: article-grid
       columns: 3
@@ -92,9 +93,11 @@ sections:
         folders:
           - publications
         featured_only: false
+      count: 6                     # limit to six items
     design:
-      view: article-grid
-      columns: 6
+      view: list                  # list layout
+      image_position: left        # featured image on the side
+      # columns: 1                # optional
 
   - block: collection
     content:
