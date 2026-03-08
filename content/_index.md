@@ -25,7 +25,7 @@ sections:
       headings:
         about: 'Summary'
         education: ''
-        interests: ''
+        # interests: ''
         experience: 'exp'
         skills: 'ski'
         awards: 'asd'
@@ -42,7 +42,7 @@ sections:
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        shape: rounded # Options: circle (default), square, rounded
 
   - block: markdown
     content:
@@ -53,9 +53,12 @@ sections:
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
-        Please reach out to collaborate 😃
+        fskdjflskdjf
+
+        Please reach out to collaborate s 😃
     design:
-      columns: '1'
+      columns: 2
+
   - block: collection
     content:
       title: Projects
@@ -63,41 +66,47 @@ sections:
       filters:
         folders:
           - projects
-        exclude_featured: false
+        featured_only: false
     design:
-      view: citation
+      view: article-grid
+      columns: 3
+
   - block: collection
     id: papers
     content:
       title: Featured Publications
+      text: 'Featured publications, all the cool ones'
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+
+  - block: collection
+    content:
+      title: Publications
+      text: 'A link to all publications'
       filters:
         folders:
           - publications
         featured_only: false
     design:
       view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+      columns: 1
 
   - block: collection
     content:
       title: Patents
-      text: ''
+      text: 'Patents'
       filters:
         folders:
           - patents
-        exclude_featured: false
+        featured_only: false
     design:
-      view: citation
+      view: article-grid
+      columns: 2
 
   # - block: collection
   #   id: talks

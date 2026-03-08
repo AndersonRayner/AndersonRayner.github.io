@@ -40,7 +40,6 @@ image:
 
 projects:
 - DARTS
-- uas
 
 ---
 

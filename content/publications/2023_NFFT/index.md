@@ -20,7 +20,7 @@ tags:
 featured: false
 
 links:
-- name: youtube
+- type: video
   url: https://www.youtube.com/watch?v=5mpEVbIzybM
 
 image:

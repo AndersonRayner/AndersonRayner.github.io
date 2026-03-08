@@ -22,14 +22,10 @@ tags:
 featured: false
 
 links:
-- tpye: code
+- type: code
   url: https://github.com/connorlee77/uav-thermal-water-segmentation
-  icon_pack: fab
-  icon: github
-- name: youtube
+- type: video
   url: https://www.youtube.com/watch?v=SksOtntVplI
-  icon_pack: fab
-  icon: youtube
 
 image:
   caption: ""
