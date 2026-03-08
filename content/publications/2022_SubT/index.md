@@ -1,73 +1,36 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "NeBula: TEAM CoSTAR's Robotic Autonomy Solution that Won Phase II of DARPA Subterranean Challenge"
-authors: 
-- Ali Agha
-- Kyohei Otsu
-- Benjamin Morrell
-- and more
+title: "NeBula: TEAM CoSTAR's Robotic Autonomy Solution that Won Phase II of
+  DARPA Subterranean Challenge"
+authors:
+  - Ali Agha
+  - Kyohei Otsu
+  - Benjamin Morrell
+  - and more
 date: 2022-03-01
-
-# Schedule page publish date (NOT publication's date).
 publishDate: 2022-03-01
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: 
+publication_types:
   - article-journal
-
-# Publication name and optional abbreviated publication name.
-publication: "Field Robotics"
-publication_short: "Field Robotics"
-
+publication: Field Robotics
+publication_short: Field Robotics
 abstract: ""
-
-# Summary. An optional shortened abstract.
-summary: ""
-
-tags: []
+summary: This is the summary
+tags:
+  - robotics
 categories: []
 featured: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
 links:
-- name: Website
-  url: https://costar.jpl.nasa.gov/
-- name: pdf
-  url: https://www.journalfieldrobotics.org/Field_Robotics/SI_DARPA_SubT_files/Vol2_47.pdf
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+  - name: Website
+    url: https://costar.jpl.nasa.gov/
+  - name: pdf
+    url: https://www.journalfieldrobotics.org/Field_Robotics/SI_DARPA_SubT_files/Vol2_47.pdf
 image:
   caption: ""
-  focal_point: "smart"
+  focal_point: smart
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects:
-- robotics
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+  - robotics
 slides: ""
+
 ---
 
 This paper presents and discusses algorithms, hardware, and software architecture developed by the TEAM CoSTAR (Collaborative SubTerranean Autonomous Robots), competing in the DARPA Subterranean Challenge.  Specifically, it presents the techniques utilized within the Tunnel (2019) and Urban (2020) competitions,  where CoSTAR achieved 2nd and 1st place, respectively. We also discuss CoSTAR’s demonstrations in Martian-analog surface and subsurface (lava tubes) exploration. The paper introduces our autonomy solution, referred to as NeBula (Networked Belief-aware Perceptual Autonomy).  NeBula is an uncertainty-aware framework that aims at enabling resilient and modular autonomy solutions by performing reasoning and decision making in the belief space (space of probability distributions over the  robot  and  world  states). We  discuss  various  components  of  the  NeBula  framework, including:  (i) geometric and semantic environment mapping; (ii) a multi-modal positioning system; (iii)  traversability  analysis  and  local  planning;  (iv)  global  motion planning  and exploration  behavior;  (i)  risk-aware  mission  planning; (vi) networking and decentralized reasoning; and (vii) learning-enabled adaptation. We discuss the performance of NeBula on several robot types (e.g.  wheeled, legged, flying), in various environments.  We discuss the specific results and lessons learned from fielding this solution in the challenging courses of the DARPA Subterranean Challenge competition.

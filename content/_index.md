@@ -57,6 +57,16 @@ sections:
     design:
       columns: '1'
   - block: collection
+    content:
+      title: Projects
+      text: 'Some example text for projects'
+      filters:
+        folders:
+          - projects
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -77,16 +87,18 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     content:
-      title: Projects
-      text: 'Some example text for projects'
+      title: Patents
+      text: ''
       filters:
         folders:
-          - projects
+          - patents
         exclude_featured: false
     design:
       view: citation
+
   # - block: collection
   #   id: talks
   #   content:
