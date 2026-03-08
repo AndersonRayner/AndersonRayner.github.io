@@ -82,7 +82,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 
   - block: collection
     content:
@@ -94,7 +94,7 @@ sections:
         featured_only: false
     design:
       view: article-grid
-      columns: 1
+      columns: 6
 
   - block: collection
     content:

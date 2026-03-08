@@ -34,7 +34,8 @@ hugoblox:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "marine"
+    # pack: "marine"
+    pack: "contrast"
     # Optional: Override theme pack colors
     colors:
       primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
@@ -74,7 +75,7 @@ hugoblox:
     # Spacing density: 'compact', 'comfortable', or 'spacious'
     spacing: "comfortable"
     # Avatar shape in author profiles
-    avatar_shape: circle # circle | square | rounded
+    avatar_shape: rounded # circle | square | rounded
 
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER
