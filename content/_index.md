@@ -17,14 +17,16 @@ sections:
         Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
 
         Download my <a href="https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" class="btn btn-primary" target="_blank" rel="noopener">
-        <i class="fas fa-download"></i> CV (Academic) </a> / <a href="https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf" class="btn btn-primary" target="_blank" rel="noopener">
+        <i class="fas fa-download"></i>CV (Academic)</a> / <a href="https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf" class="btn btn-primary" target="_blank" rel="noopener">
         <i class="fas fa-download"></i> CV (Industry) </a>
-        
+
       headings:
         about: 'Summary'
         education: ''
         interests: ''
     design:
+      show_education: false
+      date_format: 'January 2006'
       background:
         gradient_mesh:
           enable: true
@@ -39,7 +41,6 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: 'Some example text for projects'
       filters:
         folders:
           - projects
@@ -53,7 +54,6 @@ sections:
     id: papers
     content:
       title: Featured Publications
-      text: Featured publications, all the cool ones
       filters:
         folders:
           - publications
@@ -65,11 +65,11 @@ sections:
 
   - block: collection
     content:
-      title: Publications
+      title: Other Publications
       filters:
         folders:
           - publications
-        featured_only: false
+        exclude_featured: true
       count: 6
     design:
       view: citation
