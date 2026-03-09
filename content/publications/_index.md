@@ -1,12 +1,22 @@
 ---
-title: Publications
-cms_exclude: true
+# Leave the homepage title empty to use the site title
+title: ''
+summary: ''
+date: 2022-10-24
+type: landing
 
-# View.
-view: citation
+sections:
+  - block: collection
+    id: papers
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publications
+        featured_only: false
+      count: -1                     # show at most three items
+    design:
+      view: article-grid
+      columns: 3
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
 ---

@@ -26,11 +26,9 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-
-url_code: ""
-url_pdf: "publication/2021_volcano/2021_Volcano.pdf"
-url_slides: ""
-url_video: ""
+links:
+- type: pdf
+  url: publication/2021_volcano/2021_Volcano.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

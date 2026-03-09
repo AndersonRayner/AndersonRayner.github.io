@@ -4,12 +4,15 @@
 title: "kvis"
 summary: "A MATLAB-based, fully-featured flight log analysis program for ArduPilot, PX4 and more"
 authors: []
-tags: [code, highlights]
-categories: []
+tags: 
+- code
+- highlights
 date: 2021-05-09T18:56:00-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/flyingk/kVIS3"
+links:
+- type: site
+  url: https://github.com/flyingk/kVIS3
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -26,11 +29,6 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-
-url_code: "https://github.com/flyingk/kVIS3"
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

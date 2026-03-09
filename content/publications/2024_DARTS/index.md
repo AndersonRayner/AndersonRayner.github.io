@@ -13,10 +13,8 @@ authors:
 - Soon-Jo Chung
 - Marco Lavalle
 date: "2024-04-15"
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-05-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,34 +27,16 @@ publication_types:
 publication: "15th European Conference on Synthetic Aperture Radar"
 publication_short: "EUSAR 2024"
 
-abstract: ""
-
-# Summary. An optional shortened abstract.
-summary: ""
-
 tags:
 - DARTS
-categories: []
-featured: true
-
+featured: false
 
 image:
   caption: "Example caption"
   focal_point: "smart"
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: 
 - DARTS
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
 ---

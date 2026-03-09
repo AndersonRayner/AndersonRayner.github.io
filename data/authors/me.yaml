@@ -13,12 +13,7 @@ status:
   icon: "✈️"
 role: Staff Scientist
 bio: |
-  Field roboticist, aero engineer, and low-level programmer who is always looking for the next challenging adventure.
-  Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
-
-  Download my <a href="https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" class="btn btn-primary" target="_blank" rel="noopener">
-  <i class="fas fa-download"></i> CV (Academic) </a> / <a href="https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf" class="btn btn-primary" target="_blank" rel="noopener">
-  <i class="fas fa-download"></i> CV (Industry) </a>
+  Field roboticist, aero engineer, system architect
 
 affiliations:
   - name: California Institute of Technology
@@ -39,31 +34,35 @@ links:
   - icon: academicons/cv
     link: https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf
 
-interests:
-  - Extreme Field Robotics
-  - UAS
-  - Climbing Adventures
+# interests:
+#   - Extreme Field Robotics
+#   - UAS
+#   - Climbing Adventures
 
 education:
   - degree: PhD (Aeronautics)
     institution: The University of Sydney and Université Libre de Bruxelles
-    start: 2011-2018
-    # end: 2018-01-01
+    start: 2011-01-01
+    end: 2018-12-01
     summary: |
       Methodology for Aerodynamic Parameter Estimation of Tail-Sitting Multirotors
-    # button:
-      # text: Download dissertation (TODO)
-      # url: /resume.pdf
-      # icon: hero/arrow-down-tray
   - degree: B.Eng (Aeronautics) Hons I
     institution: The University of Sydney
-    start: 2007 - 2010
-    # end: 2010
+    start: 2007-01-01
+    end: 2010-12-01
 
 experience:
+  - role: Staff Scientist
+    org: Gharib Research Group, Caltech
+    start: 2025-08-01
+    summary: |
+      - Firefighting
+      - X4 Racing Drone
+
   - role: Staff Scientist / PostDoc / Lecturer
     org: Autonomous Robotics and Control Lab (ARCL), Caltech
     start: 2019-01-01
+    end: 2025-07-01
     summary: |2-
       - Lead systems architect, project manager and field deployment (Indy Autonomous Challenge)
       - Lead systems integrator, management and field deployment (DARPA LINC, JPL collab.)
@@ -76,10 +75,7 @@ experience:
       - Supported 10+ technically diverse ARCL robotics projects towards success
       - Ensured UAS regulatory compliance for both NASA (public) and Part 107 UAS
       - Developed and lectured Experimental Robotics course (ME/CS/EE 129)
-    # button:
-      # text: View portfolio
-      # url: /
-      # icon: hero/arrow-down-tray
+
   - role: PostDoc / Hardware Integrator
     org: DARPA Subterranean Challenge (SubT), Jet Propulsion Laboratory
     start: 2018-01-01
@@ -102,54 +98,56 @@ experience:
       - Unofficial 'go-to guy' for UAV Lab support (undergrad theses, PhD work, wind tunnel, etc.)
       - Guest lectured for Professional Engineering, UAV Operations and Workplace Health and Safety
 
-
 skills:
-  - name: Other Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
   - name: Technical Skills
     items:
       - label: Extreme Environment Field Testing
         description: 'Field team lead, pilotage, operations and safety'
-        icon: crow-solid
+        # icon: crow-solid
       - label: System Integration and Architecture
         description: 'Full stack autonomoy system development at both hardware and software levels'
         icon: wrench-solid
       - label: UAS Pilot / Ground Station Operator
         description: 'Part 107 certified, AMA Fixed-Wing Gold Wings, Test Pilot, R/C Hobbyist'
-        icon: gamepad-solid
+        # icon: gamepad-solid
       - label: Embedded Systems, C/C++, ROS1/2
         description: 'Low level driver development, safety critical systems, ROS1/2 interfacing' 
-        icon: laptop-code-solid
+        # icon: laptop-code-solid
       - label: Rapid Prototyping and Design
         description: '3D printing, laser cutting, mill/lathe for rapid design iteration'
         icon: cube-solid
       - label: Aircraft Design and System Identification
         description: 'Fixed-wing, multirotor and powered-lift aircraft'
-        icon: plane-solid
-  - name: Experience
+        icon: hero/trophy
+        # icon: plane-solid
+  - name: Aeronautics
+  - name: Software
     items:
-      - name: Staff Scientist (Caltech)
-        description: 'Indy Autonomous Chanllenge <br> DARPA LINC <br> Volcano Drone <br> JPL DARTS <br> SQUID <br> Autonomous Flying Amubulance <br> Lecturer'
-        # icon: caltech
-      - name: Post-Doc (JPL)
-        description: 'DARPA Subterranean Challenge <br> Field Lead'
-        # icon: jpl
-      - name: Researcher (USyd)
-        description: 'Wasp AE replacement for the Australian Army <br> UAV Lab support <br> Guest Lecturer'
+      - label: Coding
+        description: ROS1/ROS2, MATLAB, C/C++, Arduino, git, Python, bash
+      - label: UAS
+        description: ArduPilot, Mission Planner, qgroundcontrol, PX4, multi-rotor, fixed-wing
+      - label: CAD
+        description: Solidworks, Inventor, KiCAD
+      - label: General
+        description: Microsoft Office, LATEX, Windows, Linux
+  - name: Certifications
+    items:
+      - label: Part 107 (FAA)
+      - label: Fixed-Wing Gold Wings (MAAA)
+      - label: First Aid / CPR (American Red Cross)
+      - label: Mental Health First Aid (National Council)
+
+  # - name: Experience
+  #   items:
+  #     - name: Staff Scientist (Caltech)
+  #       description: 'Indy Autonomous Chanllenge <br> DARPA LINC <br> Volcano Drone <br> JPL DARTS <br> SQUID <br> Autonomous Flying Amubulance <br> Lecturer'
+  #       # icon: caltech
+  #     - name: Post-Doc (JPL)
+  #       description: 'DARPA Subterranean Challenge <br> Field Lead'
+  #       # icon: jpl
+  #     - name: Researcher (USyd)
+  #       description: 'Wasp AE replacement for the Australian Army <br> UAV Lab support <br> Guest Lecturer'
         # icon: usyd
 
 languages:

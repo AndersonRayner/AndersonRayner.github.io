@@ -1,63 +1,40 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'matt'
 summary: ''
 date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
   spacing: '2rem'
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf
-      # button:
-      #   text: Download CV
-      #   url: https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf
+      text: |
+        Field roboticist, system architect, aero engineer, and low-level programmer who is always looking for the next challenging adventure.
+        Whether the mission is deep underground or high in the air, I can duck tape, hot glue, and hack my way to success.
+
+        Download my <a href="https://github.com/AndersonRayner/cv/releases/download/main/ANDERSON_Matt.pdf" class="btn btn-primary" target="_blank" rel="noopener">
+        <i class="fas fa-download"></i> CV (Academic) </a> / <a href="https://raw.githubusercontent.com/AndersonRayner/cv/main/anderson_matt_cv_short.pdf" class="btn btn-primary" target="_blank" rel="noopener">
+        <i class="fas fa-download"></i> CV (Industry) </a>
+        
       headings:
         about: 'Summary'
         education: ''
-        # interests: ''
-        experience: 'exp'
-        skills: 'ski'
-        awards: 'asd'
+        interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
 
-      # Name heading sizing to accommodate long or short names
       name:
         size: md # Options: xs, sm, md, lg (default), xl
 
-      # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
-
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        fskdjflskdjf
-
-        Please reach out to collaborate s 😃
-    design:
-      columns: 2
+        shape: circle # Options: circle (default), square, rounded
 
   - block: collection
     content:
@@ -67,15 +44,16 @@ sections:
         folders:
           - projects
         featured_only: false
+      count: 3
     design:
-      view: slider
-      # columns not needed for a slider
+      view: article-grid
+      columns: 3
 
   - block: collection
     id: papers
     content:
       title: Featured Publications
-      text: 'Featured publications, all the cool ones'
+      text: Featured publications, all the cool ones
       filters:
         folders:
           - publications
@@ -88,85 +66,25 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: 'A link to all publications'
       filters:
         folders:
           - publications
         featured_only: false
-      count: 6                     # limit to six items
+      count: 6
     design:
-      view: list                  # list layout
-      image_position: left        # featured image on the side
-      # columns: 1                # optional
-
-  - block: collection
-    content:
-      title: Patents
-      text: 'Patents'
-      filters:
-        folders:
-          - patents
-        featured_only: false
-    design:
-      view: article-grid
-      columns: 2
+      view: citation
+      image_position: left
 
   # - block: collection
-  #   id: talks
   #   content:
-  #     title: Recent & Upcoming Talks
+  #     title: Patents
+  #     text: 'Patents'
   #     filters:
   #       folders:
-  #         - events
+  #         - patents
+  #       featured_only: false
   #   design:
-  #     view: card
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: Recent News
-  #     subtitle: ''
-  #     text: ''
-  #     # Page type to display. E.g. post, talk, publication...
-  #     page_type: blog
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 10
-  #     # Filter on criteria
-  #     filters:
-  #       author: ''
-  #       category: ''
-  #       tag: ''
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ''
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: card
-  #     # Reduce spacing
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-  # - block: cta-card
-  #   demo: true # Only display this section in the HugoBlox Kit demo site
-  #   content:
-  #     title: 👉 Build your own academic website like this
-  #     text: |-
-  #       This site is generated by HugoBlox Kit - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
+  #     view: article-grid
+  #     columns: 2
 
-  #       <a class="github-button" href="https://github.com/HugoBlox/kit" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/kit on GitHub">Star</a>
-
-  #       Easily build anything with blocks - no-code required!
-
-  #       From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-  #     button:
-  #       text: Get Started
-  #       url: https://hugoblox.com/templates/
-  #   design:
-  #     card:
-  #       # Card background color (CSS class)
-  #       css_class: 'bg-primary-300 dark:bg-primary-700'
-  #       css_style: ''
 ---

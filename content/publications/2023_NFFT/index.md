@@ -17,7 +17,7 @@ tags:
 - uas
 - robotics
 
-featured: false
+featured: true
 
 links:
 - type: video

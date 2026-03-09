@@ -22,7 +22,7 @@ publication_short: "TRO"
 tags:
 - robotics
 
-featured: false
+featured: true
 
 image:
   caption: ""

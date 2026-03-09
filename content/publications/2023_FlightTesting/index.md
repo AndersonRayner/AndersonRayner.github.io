@@ -20,7 +20,7 @@ publication_short: "Scitech2023"
 
 tags:
 - uas
-featured: false
+featured: true
 
 links:
   - type: code
