@@ -1,30 +1,24 @@
 ---
-
-title: "Modelling Propellers in FINE/Open using OpenLabs"
-authors: 
-- Matthew Anderson
-- KC Wong
-- Patrick Hendrick
+title: Modelling Propellers in FINE/Open using OpenLabs
+authors:
+  - Matthew Anderson
+  - KC Wong
+  - Patrick Hendrick
 date: 2014-01-01
-
-publication_types: 
+publication_types:
   - paper-conference
-
-publication: "Fourth Australasian Unmanned Systems Conference"
-
+publication: Fourth Australasian Unmanned Systems Conference
 tags:
-- uas
-- cfd
-
+  - uas
+  - cfd
 featured: false
-
 image:
   caption: ""
-  focal_point: "smart"
+  focal_point: smart
   preview_only: false
-
 projects:
-- cfd
+  - cfd
+summary: ""
 
 ---
 

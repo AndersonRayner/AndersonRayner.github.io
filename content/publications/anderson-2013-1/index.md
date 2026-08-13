@@ -1,32 +1,25 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Propeller Location Optimisation for Annular Wing Design"
-
-authors: 
-- Matthew Anderson
-- Kai Lehmkuehler
-- Derrick Ho
-- KC Wong
-- Patrick Hendrick
+title: Propeller Location Optimisation for Annular Wing Design
+authors:
+  - Matthew Anderson
+  - Kai Lehmkuehler
+  - Derrick Ho
+  - KC Wong
+  - Patrick Hendrick
 date: 2013-09-17
-
-publication_types: 
+publication_types:
   - paper-conference
-
-# Publication name and optional abbreviated publication name.
-publication: "Proceedings of the International Micro Air Vehicle Conference and Flight Competition 2013"
-publication_short: "IMAV2013"
-
+publication: Proceedings of the International Micro Air Vehicle Conference and
+  Flight Competition 2013
+publication_short: IMAV2013
 tags:
-- uas
-
+  - uas
 featured: false
-
 image:
   caption: ""
-  focal_point: "smart"
+  focal_point: smart
   preview_only: false
+summary: ""
 
 ---
 

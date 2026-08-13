@@ -1,35 +1,28 @@
 ---
-
-title: "Flight Experimentation Towards Enhanced UAV Capabilities – The Multi-rotor Air-Crane"
-
-authors: 
-- Matthew Anderson
-- Kai Lehmkuehler
-- KC Wong
+title: Flight Experimentation Towards Enhanced UAV Capabilities – The
+  Multi-rotor Air-Crane
+authors:
+  - Matthew Anderson
+  - Kai Lehmkuehler
+  - KC Wong
 date: 2017-02-26
-
-publication_types: 
+publication_types:
   - paper-conference
-
-publication: "17th Australian Aerospace Congress"
-
+publication: 17th Australian Aerospace Congress
 tags:
-- uas
-
+  - uas
 featured: false
-
 links:
-- type: video
-  url: https://www.youtube.com/watch?v=WshOAMU8E0c
-
+  - type: video
+    url: https://www.youtube.com/watch?v=WshOAMU8E0c
 image:
   caption: ""
-  focal_point: "smart"
+  focal_point: smart
   preview_only: false
-
-projects: 
-- RC Fun
-- Flight Testing
+projects:
+  - RC Fun
+  - Flight Testing
+summary: ""
 
 ---
 
