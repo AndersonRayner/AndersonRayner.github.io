@@ -1,0 +1,83 @@
+---
+title: "NeBula: TEAM CoSTAR's Robotic Autonomy Solution that Won Phase II of DARPA
+  Subterranean Challenge"
+authors:
+- Ali Agha
+- Kyohei Otsu
+- Benjamin Morrell
+- David Fan
+- Rohan Thakker
+- Angel Santamaria-Navarro
+- Sung-Kyun Kim
+- Amanda Bouman
+- Xianmei Lei
+- Jeffrey Edlund
+- Muhammad Ginting
+- Kamak Ebadi
+- Matthew Anderson
+- Torkom Pailevanian
+- Edward Terry
+- Michael Wolf
+- Andrea Tagliabue
+- Tiago Vaquero
+- Matteo Palieri
+- Scott Tepsuporn
+- Yun Chang
+- Arash Kalantari
+- Fernando Chavez
+- Brett Lopez
+- Nobuhiro Funabiki
+- Gregory Miles
+- Thomas Touma
+- Alessandro Buscicchio
+- Jesus Tordesillas
+- Nikhilesh Alatur
+- Jeremy Nash
+- William Walsh
+- Sunggoo Jung
+- Hanseob Lee
+- Christoforos Kanellakis
+- John Mayo
+- Scott Harper
+- Marcel Kaufmann
+- Anushri Dixit
+- Gustavo Correa
+- Carlyn Lee
+- Jay Gao
+- Gene Merewether
+- Jairo Maldonado-Contreras
+- Gautam Salhotra
+- Maira Saboia Da Silva
+- Benjamin Ramtoula
+- Seyed Fakoorian
+- Alexander Hatteland
+- Taeyeon Kim
+- Tara Bartlett
+- Alex Stephens
+- Leon Kim
+- Chuck Bergh
+- Eric Heiden
+- Thomas Lew
+- Abhishek Cauligi
+- Tristan Heywood
+- Andrew Kramer
+- Henry Leopold
+- Hov Melikyan
+- Hyungho Choi
+- Shreyansh Daftry
+- Olivier Toupet
+- Inhwan Wee
+- Abhishek Thakur
+- Micah Feras
+- Giovanni Beltrame
+- George Nikolakopoulos
+- David Shim
+- Luca Carlone
+- Joel Burdick
+date: '2022-03-01'
+publishDate: '2026-08-10T03:05:46.577658Z'
+publication_types:
+- article-journal
+publication: '*Field Robotics*'
+doi: 10.55417/fr.2022047
+---
