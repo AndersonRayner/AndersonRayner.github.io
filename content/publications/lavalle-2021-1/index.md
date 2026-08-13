@@ -1,27 +1,44 @@
 ---
-title: Distributed Aperture Radar Tomographic Sensors (DARTS) to Map Surface Topography
-  and Vegetation Structure
-authors:
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Distributed Aperture RADAR Tomographic Sensors (DARTS) to Map Surface Topography and Vegetation Structure"
+
+authors: 
 - Marco Lavalle
 - Ilgin Seker
-- James Ragan
 - Eric Loria
 - Razi Ahmed
-- Brian P. Hawkins
-- Samuel Prager
+- Brian Hawkins
+- Samuel Pragar
 - Duane Clark
 - Robert Beauchamp
 - Mark Haynes
 - Paolo Focardi
-- Nacer Chahat
 - Matthew Anderson
+- James Ragan
 - Kai Matsuka
 - Vincenzo Capuano
 - Soon-Jo Chung
-date: '2021-07-01'
-publishDate: '2026-08-10T03:05:46.546452Z'
-publication_types:
-- paper-conference
-publication: '*2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS*'
-doi: 10.1109/igarss47720.2021.9553170
+
+date: 2021-07-12
+
+publication_types: 
+  - paper-conference
+
+publication: "IEEE's International Geoscience and Remote Sensing Symposium"
+publication_short: "IGARSS 2021"
+
+tags: 
+- uas
+
+featured: false
+
+image:
+  caption: ""
+  focal_point: "smart"
+  preview_only: false
+
+projects: 
+- DARTS
+
 ---

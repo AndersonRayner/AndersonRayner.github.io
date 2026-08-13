@@ -1,7 +1,9 @@
 ---
-title: UAV-Borne Bistatic Sar and Insar Experiments in Support of STV and SDC Target
-  Observables
-authors:
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "UAV-Borne Bistatic Sar and Insar Experiments in Support of STV and SDC Target Observables"
+
+authors: 
 - Se-Yeon Jeon
 - Brian Hawkins
 - Samuel Prager
@@ -11,11 +13,30 @@ authors:
 - Eric Loria
 - Soon-Jo Chung
 - Marco Lavalle
-date: '2023-07-01'
-publishDate: '2026-08-10T03:05:46.585707Z'
-publication_types:
-- paper-conference
-publication: '*IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing
-  Symposium*'
-doi: 10.1109/igarss52108.2023.10282077
+date: 2023-06-01
+
+publication_types: 
+  - paper-conference
+
+publication: "IEEE International Geoscience and Remote Sensing Symposium"
+publication_short: "IGARSS"
+
+tags:
+- uas
+featured: false
+
+links:
+- type: pdf
+  url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10282077
+
+image:
+  caption: ""
+  focal_point: "smart"
+  preview_only: false
+
+projects:
+- DARTS
+
 ---
+
+The ongoing Distributed Aperture Radar Tomographic Sensors (DARTS) project at NASA Jet Propulsion Laboratory aims to mature and demonstrate multi-static SAR measurements for fine-scale 3D imaging of surface topography, vegetation, and surface deformation and change. The project explores the use of drones as SAR platforms and integrates software-defined radar on RF system-on-chip for compact and flexible radar instruments. This paper highlights the progress in DARTS hardware development, experiments, and data processing. The recent experiments have successfully demonstrated monostatic interferometry as well as acquisition and processing of bi-static SAR imagery. By leveraging the advantages of multi-static SAR and drone-based platforms, the project aims to build a testbed for future missions design and enhanced SAR imaging capabilities for scientific applications.
