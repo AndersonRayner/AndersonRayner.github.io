@@ -44,7 +44,7 @@ sections:
       title: ''
       subtitle: ''
       album: media/gallery
-      limit: 5
+      limit: 0
     design:
       layout: carousel 
       columns: 4
