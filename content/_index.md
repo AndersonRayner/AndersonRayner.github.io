@@ -55,7 +55,7 @@ sections:
     content:
       title: Photo Highlights
       subtitle: Photo highlights subtitle
-      album: gallery
+      album: media/gallery
     design:
       layout: grid
       columns: 4
