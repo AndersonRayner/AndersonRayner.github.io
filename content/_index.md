@@ -45,10 +45,10 @@ sections:
         folders:
           - projects
         featured_only: false
-      count: 4
+      count: 3
     design:
       view: article-grid
-      columns: 4
+      columns: 3
 
   - block: collection
     content:
@@ -57,10 +57,10 @@ sections:
         folders:
           - publications
         featured_only: true
-      count: 4
+      count: 3
     design:
       view: article-grid
-      columns: 4
+      columns: 3
 
   # - block: collection
   #   content:
@@ -82,7 +82,7 @@ sections:
       limit: 0
     design:
       layout: carousel 
-      columns: 3
+      columns: 5
       gap: md
       aspect_ratio: square
       caption_position: below
