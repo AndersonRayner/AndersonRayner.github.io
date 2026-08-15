@@ -50,6 +50,21 @@ sections:
       view: article-grid
       columns: 3
 
+  # https://hugoblox.com/blocks/gallery
+  - block: gallery
+    content:
+      title: Photo Highlights
+      subtitle: Photo highlights subtitle
+      album: gallery
+    design:
+      layout: grid
+      columns: 4
+      gap: md
+      aspect_ratio: square
+      caption_position: below
+      hover_zoom: true
+      lightbox: true
+
   - block: collection
     id: papers
     content:
