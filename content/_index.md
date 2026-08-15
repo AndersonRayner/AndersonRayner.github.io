@@ -38,6 +38,70 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
 
+  # https://hugoblox.com/blocks/gallery
+  - block: gallery
+    content:
+      title: ''
+      subtitle: ''
+      album: media/gallery
+    design:
+      layout: grid
+      columns: 4
+      gap: md
+      aspect_ratio: square
+      caption_position: below
+      hover_zoom: true
+      lightbox: true
+
+  # https://hugoblox.com/blocks/gallery
+  - block: gallery
+    content:
+      title: ''
+      subtitle: ''
+      album: media/gallery
+    design:
+      layout: masonry 
+      columns: 4
+      gap: md
+      aspect_ratio: square
+      caption_position: below
+      hover_zoom: true
+      lightbox: true
+
+
+  # https://hugoblox.com/blocks/gallery
+  - block: gallery
+    content:
+      title: ''
+      subtitle: ''
+      album: media/gallery
+    design:
+      layout: slideshow
+      columns: 4
+      gap: md
+      aspect_ratio: square
+      caption_position: below
+      hover_zoom: true
+      lightbox: true
+
+  # https://hugoblox.com/blocks/gallery
+  - block: gallery
+    content:
+      title: ''
+      subtitle: ''
+      album: media/gallery
+    design:
+      layout: carousel 
+      columns: 4
+      gap: md
+      aspect_ratio: square
+      caption_position: below
+      hover_zoom: true
+      lightbox: true
+
+
+
+
   - block: collection
     content:
       title: Projects
@@ -50,20 +114,6 @@ sections:
       view: article-grid
       columns: 3
 
-  # https://hugoblox.com/blocks/gallery
-  - block: gallery
-    content:
-      title: Photo Highlights
-      subtitle: Photo highlights subtitle
-      album: media/gallery
-    design:
-      layout: grid
-      columns: 4
-      gap: md
-      aspect_ratio: square
-      caption_position: below
-      hover_zoom: true
-      lightbox: true
 
   - block: collection
     id: papers
