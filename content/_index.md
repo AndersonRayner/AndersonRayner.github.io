@@ -38,6 +38,42 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
 
+  - block: collection
+    content:
+      title: Projects
+      filters:
+        folders:
+          - projects
+        featured_only: false
+      count: 3
+    design:
+      view: article-grid
+      columns: 3
+
+  - block: collection
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+      count: 3
+    design:
+      view: article-grid
+      columns: 3
+
+  # - block: collection
+  #   content:
+  #     title: Other Publications
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: true
+  #     count: 6
+  #   design:
+  #     view: citation
+  #     image_position: left
+
   # https://hugoblox.com/blocks/gallery
   - block: gallery
     content:
@@ -53,44 +89,6 @@ sections:
       caption_position: below
       hover_zoom: true
       lightbox: true
-
-  - block: collection
-    content:
-      title: Projects
-      filters:
-        folders:
-          - projects
-        featured_only: false
-      count: 3
-    design:
-      view: article-grid
-      columns: 3
-
-
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-      count: 3                     # show at most three items
-    design:
-      view: article-grid
-      columns: 3
-
-  - block: collection
-    content:
-      title: Other Publications
-      filters:
-        folders:
-          - publications
-        exclude_featured: true
-      count: 6
-    design:
-      view: citation
-      image_position: left
 
   # - block: collection
   #   content:
