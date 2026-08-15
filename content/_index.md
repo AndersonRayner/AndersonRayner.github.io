@@ -38,21 +38,6 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
 
-  # # https://hugoblox.com/blocks/gallery
-  # - block: gallery
-  #   content:
-  #     title: ''
-  #     subtitle: ''
-  #     album: media/gallery
-  #   design:
-  #     layout: masonry   # MOve this to it's own page of images
-  #     columns: 4
-  #     gap: md
-  #     aspect_ratio: square
-  #     caption_position: below
-  #     hover_zoom: true
-  #     lightbox: true
-
   # https://hugoblox.com/blocks/gallery
   - block: gallery
     content:
