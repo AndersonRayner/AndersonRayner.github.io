@@ -6,7 +6,7 @@ date: 2022-10-24
 type: landing
 
 design:
-  spacing: '2rem'
+  spacing: '-2rem'
 
 sections:
   - block: resume-biography-3
