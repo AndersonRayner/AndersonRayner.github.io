@@ -30,7 +30,7 @@ tags:
 - robotics
 - uas
 
-featured: false
+featured: true
 
 image:
   caption: ""
