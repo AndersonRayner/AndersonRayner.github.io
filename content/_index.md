@@ -45,7 +45,7 @@ sections:
         folders:
           - projects
         featured_only: false
-      count: 3
+      count: 4
     design:
       view: article-grid
       columns: 4
@@ -57,7 +57,7 @@ sections:
         folders:
           - publications
         featured_only: true
-      count: 3
+      count: 4
     design:
       view: article-grid
       columns: 4
@@ -82,7 +82,7 @@ sections:
       limit: 0
     design:
       layout: carousel 
-      columns: 4
+      columns: 3
       gap: md
       aspect_ratio: square
       caption_position: below
