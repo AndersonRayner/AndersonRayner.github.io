@@ -12,7 +12,7 @@ publication_types:
   - article-journal
 tags:
   - robotics
-featured: false
+featured: true
 hugoblox:
   ids:
     arxiv: 10.55417/fr.2022047

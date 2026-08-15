@@ -48,7 +48,7 @@ sections:
       count: 3
     design:
       view: article-grid
-      columns: 3
+      columns: 4
 
   - block: collection
     content:
@@ -60,7 +60,7 @@ sections:
       count: 3
     design:
       view: article-grid
-      columns: 3
+      columns: 4
 
   # - block: collection
   #   content:
