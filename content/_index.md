@@ -77,8 +77,7 @@ sections:
   # https://hugoblox.com/blocks/gallery
   - block: gallery
     content:
-      title: ''
-      subtitle: ''
+      title: Gallery
       album: media/gallery
       limit: 0
     design:
