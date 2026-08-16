@@ -13,10 +13,6 @@ image:
   focal_point: ""
   preview_only: false
 
-links:
-- type: code
-  url: https://andersonrayner.github.io/project/arduinocode/
-
 ---
 
 A collection of Arduino drivers and software for random projects I've built over the years.

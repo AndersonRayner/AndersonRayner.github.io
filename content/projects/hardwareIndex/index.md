@@ -1,20 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Hardware Designs"
 summary: "A collection of hardware designs and PCBs"
+date: 2023-05-09
+
 tags: 
 - circuits
-date: 2023-05-09T18:56:00-07:00
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-links:
-- type: code
-  url: https://andersonrayner.github.io/project/hardwareindex/
 
 ---
 
