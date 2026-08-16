@@ -6,6 +6,8 @@ date: 2021-05-09
 
 external_link: https://github.com/AndersonRayner/teensy_4.0_breakout
 
+featured: true
+
 tags:
 - circuits
 
