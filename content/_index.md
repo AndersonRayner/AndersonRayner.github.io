@@ -44,7 +44,7 @@ sections:
       filters:
         folders:
           - projects
-        featured_only: false
+        featured_only: true
       count: 3
     design:
       view: article-grid

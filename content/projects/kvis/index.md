@@ -6,6 +6,8 @@ date: 2021-05-09
 
 external_link: https://github.com/flyingk/kVIS3
 
+featured: true
+
 tags: 
 - code
 - highlights
