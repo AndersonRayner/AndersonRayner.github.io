@@ -1,20 +1,12 @@
 ---
 
 title: "Indy Autonomous Challenge"
-summary: "Autonomous Race Cars"
-authors: []
+summary: "Autonomous race cars for the Indy Autonomous Challenge"
+date: 2025-05-09
+
+external_url: https://www.indyautonomouschallenge.com/california-institute-of-technology-joins-the-indy-autonomous-challenge
+
 tags: 
 - robotics
-categories: []
-date: 2025-05-09T18:56:00-07:00
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-links:
-- type: site
-  url: https://www.indyautonomouschallenge.com/california-institute-of-technology-joins-the-indy-autonomous-challenge
 
 ---

@@ -13,7 +13,6 @@ authors:
 - Brett Kennedy
 
 date: 2020-05-31
-# doi: "10.1109/ICRA40945.2020.9197542"
 
 publication_types: 
   - paper-conference
@@ -21,24 +20,21 @@ publication_types:
 publication: "2020 IEEE International Conference on Robotics and Automation"
 publication_short: "ICRA2020"
 
-abstract: ""
-
-# Summary. An optional shortened abstract.
-summary: ""
-
 tags:
 - robotics
 - uas
 
 featured: true
 
-image:
-  caption: ""
-  focal_point: "smart"
-  preview_only: false
-
 projects:
 - SQUID
+
+awards:
+  - name: "Best Paper (Unmanned Aerial Systems)"
+    level: winner
+    date: "2020"
+    # note: "Awarded for sustained impact 10 years after publication."
+
 
 ---
 

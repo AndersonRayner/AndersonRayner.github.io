@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Experimental Demonstration of Bistatic UAV-Borne SAR and InSAR"
+
 authors:
 - Se-Yeon Jeon
 - Brian Hawkins
@@ -12,31 +13,23 @@ authors:
 - Robert Beauchamp
 - Soon-Jo Chung
 - Marco Lavalle
-date: "2024-04-15"
 
-# Schedule page publish date (NOT publication's date).
+date: 2024-04-15
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
 publication_types: 
   - article-journal
 
-# Publication name and optional abbreviated publication name.
 publication: "15th European Conference on Synthetic Aperture Radar"
 publication_short: "EUSAR 2024"
 
 tags:
 - DARTS
-featured: false
 
-image:
-  caption: "Example caption"
-  focal_point: "smart"
-  preview_only: false
+featured: false
 
 projects: 
 - DARTS
 
 ---
+
+The Distributed Aperture Radar Tomographic Sensors (DARTS) project at the NASA Jet Propulsion Laboratory aims to mature and demonstrate multi-static SAR measurements for fine-scale 3D imaging of surface topography, vegetation, and surface deformation and change. This project explores the use of drones as SAR platforms and integrates software-defined radar on RF system-on-chip for compact and flexible radar instruments. This paper highlights the progress in DARTS hardware development, experiments, and data processing. Recent experiments have successfully demonstrated monostatic interferometry as well as acquisition and processing of bi-static SAR imagery. By leveraging the advantages of multi-static SAR and drone-based and airborne platforms, the project aims to build a testbed for future mission design and enhanced SAR imaging capabilities for scientific applications.

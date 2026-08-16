@@ -1,34 +1,30 @@
 ---
+
 title: "NeBula: TEAM CoSTAR's Robotic Autonomy Solution that Won Phase II of
   DARPA Subterranean Challenge"
+
 authors:
   - Ali Agha
   - Kyohei Otsu
   - Benjamin Morrell
   - and more
-date: 2022-03-01T00:00:00Z
-publishDate: 2022-03-01T00:00:00Z
+
+date: 2022-03-01
+
 publication_types:
   - article-journal
-tags:
-  - robotics
-featured: true
-hugoblox:
-  ids:
-    arxiv: 10.55417/fr.2022047
+
 links:
   - name: Website
     url: https://costar.jpl.nasa.gov/
-  - name: pdf
-    url: https://www.journalfieldrobotics.org/Field_Robotics/SI_DARPA_SubT_files/Vol2_47.pdf
-image:
-  caption: Spot
-  focal_point: ""
-  preview_only: false
+
+tags:
+  - robotics
+
+featured: true
+
 projects:
   - robotics
-slides: ""
-summary: "Summary"
 
 ---
 

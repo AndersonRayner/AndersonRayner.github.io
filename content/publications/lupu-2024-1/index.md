@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "MAGIC-VFM - Meta Adaptive Control for Ground Vehicles with Visual Foundation Models"
 
@@ -19,15 +18,14 @@ publication_types:
 publication: "IEEE Transactions on Robotics"
 publication_short: "TRO"
 
+links:
+- type: video
+  url: https://www.youtube.com/watch?v=sxM73ryweRA
+
 tags:
 - robotics
 
 featured: true
-
-image:
-  caption: ""
-  focal_point: "smart"
-  preview_only: false
 
 projects: 
 - linc

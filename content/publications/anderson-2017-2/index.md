@@ -20,13 +20,20 @@ tags:
 
 featured: false
 
-image:
-  caption: ""
-  focal_point: "smart"
-  preview_only: false
-
 projects: 
 - uas
+
+awards:
+  - name: "Best Written Paper (Propulsion)"
+    level: winner
+    date: "2017"
+    # note: "Awarded for sustained impact 10 years after publication."
+  - name: "Best Overall Congress Paper"
+    level: winner
+    date: "2017"
+    # note: "Awarded for sustained impact 10 years after publication."
+
+
 
 ---
 
