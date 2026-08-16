@@ -10,7 +10,7 @@ tags:
 date: 2021-04-09T18:56:00-07:00
 
 # Direct link to the page
-url: "https://github.com/AndersonRayner/ulgReader"
+external_link: "https://github.com/AndersonRayner/ulgReader"
 
 links:
 - type: code
